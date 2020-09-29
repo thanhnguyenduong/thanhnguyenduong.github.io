@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:thanhnguyen0820@gmail.com"
+      url: "mailto:thanhnguyen0820@gmail.com"
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/thanhnguyenduong/"
