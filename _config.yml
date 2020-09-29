@@ -98,17 +98,13 @@ author:
   bio              : "Welcome to My Data Science Portfolio"
   location         : "Bay Area, CA"
   email            : "thanhnguyen0820@gmail.com"
-  Github           : "https://github.com/thanhnguyenduong"
-  linkedin         : "https://www.linkedin.com/in/thanhnguyenduong/"
-  
-  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:thanhnguyen0820@gmail.com"
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.linkedin.com/in/thanhnguyenduong/"
+      url: "https://www.linkedin.com/in/thanhnguyenduong/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -117,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/thanhnguyenduong"
+      url: "https://github.com/thanhnguyenduong"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
