@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Project: Weather Forecasts Program Using Python"
+title: "Project: Weather Forecasts Program Using Python"
 date: 2020-09-04
 tags: [Python, Programming, data science]
 header:
