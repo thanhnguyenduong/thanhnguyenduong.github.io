@@ -8,4 +8,3 @@ header:
 ---
 
 
-Project 1: [Weather Forecasts Program Using Python](https://thanhnguyenduong.github.io/WeatherForecastsProgramUsingPython/)
