@@ -7,6 +7,7 @@ header:
 link: https://github.com/thanhnguyenduong/DSC520_Chicago_Crime_Analysis_Using_R
 excerpt: "This project analyzes Chicago crime statistics with R"
 ---
+### Introduction
 
 Chicago is a city in the State of Illinois, filled with many landmarks and it is the third most populous city in the United States. However, due
 to the high number of populations in the city, crime and traffic collision rates also increased. These unfortunate events can negatively affect
@@ -24,7 +25,7 @@ increases, the traffic collision occurrence also increase. The highest occurrenc
 December), where the weather is not too friendly and roads are covered with snow and low visibility road conditions do not help in term of
 reducing the crash occurrences.
 
-### summary
+### Summary
 1. School drop out rates can have an influence on Chicago crime rates, and as the drop out rate increase the crime rate will also
 increase.
 2. Chicago traffic collisions increase over time, and as the weather start to transition into the winter, traffic collisions will also increase.
