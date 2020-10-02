@@ -3,7 +3,7 @@ title: "About Me"
 permalink: /about/
 header:
   image: "/images/bay-area-1125604286small.jpg"
-  caption: "Photo credit: [iStock](iStock.com)
+  caption: "Photo credit: [iStock](iStock.com)"
 
 ---
 
