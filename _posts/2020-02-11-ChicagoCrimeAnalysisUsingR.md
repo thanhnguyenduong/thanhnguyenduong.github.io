@@ -20,15 +20,14 @@ the percentage of school drop outs focused mainly on 2011 and 2012, it still pro
 increased crime rates in Chicago.
 
 ### Summary of Findings
-1. School drop out rates can have an influence on Chicago crime rates, and as the drop out rate increase the crime rate will also
-increase.
-2. Chicago traffic collisions increase over time, and as the weather start to transition into the winter, traffic collisions will also increase.
+* School drop out rates can have an influence on Chicago crime rates, and as the drop out rate increase the crime rate will also increase.  
+* Chicago traffic collisions increase over time, and as the weather start to transition into the winter, traffic collisions will also increase.  
 
 ### Dataset
-  a. Chicago Police Stations Dataset: [Chicago Police Stations](https://www.kaggle.com/chicago/chicago-police-stations)  
-  b. Chicago Traffic Crashes Dataset: [Chicago Traffic Crashes](https://www.kaggle.com/isadoraamorim/trafficcrasheschicago)  
-  c. Chicago Public School Dataset: [Chicago Public School](https://www.kaggle.com/chicago/chicago-public-schools-data)  
-  d. Chicago Crime Dataset: [Chicago Crime Data](https://www.kaggle.com/mpastore/chicago-crime-data)  
+ 1. Chicago Police Stations Dataset: [Chicago Police Stations](https://www.kaggle.com/chicago/chicago-police-stations)  
+ 2. Chicago Traffic Crashes Dataset: [Chicago Traffic Crashes](https://www.kaggle.com/isadoraamorim/trafficcrasheschicago)  
+ 3. Chicago Public School Dataset: [Chicago Public School](https://www.kaggle.com/chicago/chicago-public-schools-data)  
+ 4. Chicago Crime Dataset: [Chicago Crime Data](https://www.kaggle.com/mpastore/chicago-crime-data)  
 
 ### Conclusion
 After finished analyzing the datasets, I found that there was not really a significant relationship between the percentage of drop outs in 2012
