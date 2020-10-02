@@ -6,7 +6,7 @@ header:
   image: "/images/chicago.jpg"
 excerpt: "This project analyzes Chicago crime statistics with R"
 ---
-Read more at [link](https://github.com/thanhnguyenduong/DSC520_Chicago_Crime_Analysis_Using_R)
+Read about my analysis at [link](https://github.com/thanhnguyenduong/DSC520_Chicago_Crime_Analysis_Using_R)
 ### Introduction
 Chicago is a city in the State of Illinois, filled with many landmarks and it is the third most populous city in the United States. However, due
 to the high number of populations in the city, crime and traffic collision rates also increased. These unfortunate events can negatively affect
