@@ -18,14 +18,22 @@ This research project will help and tell a story of how the growing percentage o
 Furthermore, an increased in the population of Chicago over time can also have an impact on traffic collisions over the years. Even though,
 the percentage of school drop outs focused mainly on 2011 and 2012, it still provides a glimpse to how drop outs rates can influence the
 increased crime rates in Chicago.
+
+### Summary of Findings
+1. School drop out rates can have an influence on Chicago crime rates, and as the drop out rate increase the crime rate will also
+increase.
+2. Chicago traffic collisions increase over time, and as the weather start to transition into the winter, traffic collisions will also increase.
+
+### Dataset
+a. Chicago Police Stations Dataset: [Chicago Police Stations](https://www.kaggle.com/chicago/chicago-police-stations)
+b. Chicago Traffic Crashes Dataset: [Chicago Traffic Crashes](https://www.kaggle.com/isadoraamorim/trafficcrasheschicago)
+c. Chicago Public School Dataset: [Chicago Public School](https://www.kaggle.com/chicago/chicago-public-schools-data)
+d. Chicago Crime Dataset: [Chicago Crime Data](https://www.kaggle.com/mpastore/chicago-crime-data)
+
+### Conclusion
 After finished analyzing the datasets, I found that there was not really a significant relationship between the percentage of drop outs in 2012
 and the influence on its crime rates for that particular year. There are many other factors that can influence the crime rates in Chicago.
 However, there was a significant relationship between the numbers of traffic collision occurrences and months of the year. As the month
 increases, the traffic collision occurrence also increase. The highest occurrences in traffic crashes tend to be around winter time (October -
 December), where the weather is not too friendly and roads are covered with snow and low visibility road conditions do not help in term of
 reducing the crash occurrences.
-
-### Summary
-1. School drop out rates can have an influence on Chicago crime rates, and as the drop out rate increase the crime rate will also
-increase.
-2. Chicago traffic collisions increase over time, and as the weather start to transition into the winter, traffic collisions will also increase.
