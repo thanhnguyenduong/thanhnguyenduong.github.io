@@ -9,4 +9,4 @@ excerpt: "This weather forecast programs will obtain weather information from Op
 
 # Weather Forecasts Program Using Python
 
-This is my first programming project that will obtain weather information from openweathermap website and output out desired city or zip code weather information
+This is my first programming project that will obtain weather information from [openweathermap website](https://openweathermap.org/) and output out desired city or zip code weather information
