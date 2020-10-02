@@ -34,6 +34,11 @@ between traffic collision occurrences and month of the year was positively propo
 conditions can decrease, thus, creating more crashes than summer where the sun is out. To me, this was a surprise because I thought
 there would be more accidents in the summer where tourists are most likely to visit.
 
+### Limitations In The Analysis
+The limitations of this analysis is due to the limited amount of present data. These datasets only recorded up to 2017/2018 which we may
+not get a complete understanding of what Chicago’s crime rates and traffic collision rates are like in the present years. Furthermore, the
+dropout rates for this analysis was done using the year 2011 and 2012 which were the only two that were in the dataset. By having more drop out rates in other
+years, we can fully understand whether dropout rate has any influence on crime rates in Chicago.
 
 ### Conclusion
 After finished analyzing the datasets, I found that there was not really a significant relationship between the percentage of drop outs in 2012
@@ -42,3 +47,7 @@ However, there was a significant relationship between the numbers of traffic col
 increases, the traffic collision occurrence also increase. The highest occurrences in traffic crashes tend to be around winter time (October -
 December), where the weather is not too friendly and roads are covered with snow and low visibility road conditions do not help in term of
 reducing the crash occurrences.
+
+Overall, the analysis was done with no intention of biases. The results of my analysis were intended to show which crime type occurred the most
+and which area of Chicago where crimes most active. Over the years, Chicago crime rate has gone down but traffic collisions will continue
+to increase as Chicago population increases.
