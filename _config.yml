@@ -97,7 +97,7 @@ author:
   avatar           : "images/bio-pic.png"
   bio              : "Welcome to My Data Science Portfolio"
   location         : "Bay Area, CA"
-  email            : "thanhnguyen0820@gmail.com"
+  # email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
