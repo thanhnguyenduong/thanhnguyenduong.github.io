@@ -3,7 +3,7 @@ title: "Weather Forecasts Program Using Python"
 date: 2020-09-04
 tags: [Python, Programming, data science]
 header:
-  image: ""
+  image: "/images/projects.jpg"
 excerpt: "This weather forecast programs will obtain weather information from OpenWeatherMap website"
 ---
 
