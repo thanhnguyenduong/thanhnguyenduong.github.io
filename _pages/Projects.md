@@ -2,7 +2,7 @@
 layout: archive
 permalink: /Projects/
 title: "Projects"
-author_profile: true
+author_profile: false
 header:
-  image: ""
+  image: "/images/data science projects.jpg"
 ---
