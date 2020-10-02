@@ -1,6 +1,6 @@
 ---
 title: "Project: Weather Forecasts Program Using Python"
-date: 2020-09-04
+date: 2020-10-01
 tags: [Python, Programming, data science]
 header:
   image: "/images/projects.jpg"
