@@ -8,4 +8,4 @@ header:
 excerpt: "This project analyzes "
 ---
 
-Read more about my full analyssis here [link](https://nbviewer.jupyter.org/github/thanhnguyenduong/DSC530_Bad_Drivers_Analysis/blob/master/DSC%20530%20Final%20Project.ipynb)
+Read more about my full analysis here [link](https://nbviewer.jupyter.org/github/thanhnguyenduong/DSC530_Bad_Drivers_Analysis/blob/master/DSC%20530%20Final%20Project.ipynb)
