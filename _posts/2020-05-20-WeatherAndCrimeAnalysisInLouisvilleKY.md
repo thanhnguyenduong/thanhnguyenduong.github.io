@@ -7,3 +7,5 @@ header:
   caption: "Photo credit:  GEKPhotography - Fotolia.com"
 excerpt: "This project analyzes the weather temperature and crime statistics in Louisville, KY"
 ---
+
+For the full analysis, please read here [Louisville, KY analysis](https://nbviewer.jupyter.org/github/thanhnguyenduong/DSC540_Weather_and_Crime_analysis_in_Louisville-KY/blob/master/Thanh%20Nguyen-Duong%20DSC540%20Milestone%205.ipynb)
