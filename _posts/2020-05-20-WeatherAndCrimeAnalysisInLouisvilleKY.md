@@ -4,7 +4,7 @@ date: 2020-05-20
 tags: [Python, weather, crime, data science]
 header:
   image: "/images/Louisville.jpg"
-  caption: "Photo credit:  GEKPhotography - Fotolia.com"
+  caption: "Photo credit: alexeys/iStock.com"
 excerpt: "This project analyzes the weather temperature and crime statistics in Louisville, KY"
 ---
 
