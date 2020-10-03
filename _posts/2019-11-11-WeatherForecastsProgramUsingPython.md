@@ -4,6 +4,7 @@ date: 2019-11-11
 tags: [Python, Programming, data science]
 header:
   image: "/images/projects 2.jpg"
+  caption: "Photo credit: TheDataScientist.com"
 excerpt: "This weather forecast programs will obtain weather information from OpenWeatherMap website"
 ---
 Try the program yourself at [link](https://github.com/thanhnguyenduong/DSC510_Weather_Python_Program)
