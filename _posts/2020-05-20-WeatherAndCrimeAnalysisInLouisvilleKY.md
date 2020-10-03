@@ -10,6 +10,7 @@ excerpt: "This project analyzes the weather temperature and crime statistics in 
 
 For my full analysis of this project, please refer to [City of Louisville, KY Analysis](https://nbviewer.jupyter.org/github/thanhnguyenduong/DSC540_Weather_and_Crime_analysis_in_Louisville-KY/blob/master/Thanh%20Nguyen-Duong%20DSC540%20Milestone%205.ipynb)
 
+### Data
 For this project, I used 3 datasets that were obtained through three different methods:
 
 1. CSV file: [Crime in Louisville Dataset 2003-2017](https://www.kaggle.com/jpayne/crime-in-louisville-ky-2003-2017)
