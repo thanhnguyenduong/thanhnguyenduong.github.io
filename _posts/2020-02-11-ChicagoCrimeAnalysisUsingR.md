@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: Shutterstock"
 excerpt: "This project analyzes Chicago crime statistics with R"
 ---
-Read about my analysis at [link](https://nbviewer.jupyter.org/github/thanhnguyenduong/thanhnguyenduong.github.io/blob/master/PDFs/Chicago%20Crime%20Analysis_Thanh%20Nguyen-Duong.pdf)
+Read about my analysis at [Chicago Crime Analysis](https://nbviewer.jupyter.org/github/thanhnguyenduong/thanhnguyenduong.github.io/blob/master/PDFs/Chicago%20Crime%20Analysis_Thanh%20Nguyen-Duong.pdf)
 ### Introduction
 Chicago is a city in the State of Illinois, filled with many landmarks and it is the third most populous city in the United States. However, due
 to the high number of populations in the city, crime and traffic collision rates also increased. These unfortunate events can negatively affect
