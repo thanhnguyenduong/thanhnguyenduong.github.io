@@ -4,6 +4,7 @@ date: 2020-02-11
 tags: [R, Programming, data science, Machine Learning, Analysis]
 header:
   image: "/images/chicago.jpg"
+  caption: "Photo credit: Shutterstock"
 excerpt: "This project analyzes Chicago crime statistics with R"
 ---
 Read about my analysis at [link](https://github.com/thanhnguyenduong/DSC520_Chicago_Crime_Analysis_Using_R)
