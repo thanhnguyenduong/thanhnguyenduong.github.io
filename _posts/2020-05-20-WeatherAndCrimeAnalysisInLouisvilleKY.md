@@ -12,9 +12,9 @@ For my full analysis of this project, please refer to [City of Louisville, KY An
 
 For this project, I used 3 datasets that were obtained through three different methods:
 
-CSV file: [Crime in Louisville Dataset 2003-2017](https://www.kaggle.com/jpayne/crime-in-louisville-ky-2003-2017)
-Website: [Zip-codes.com](https://www.zip-codes.com/state/ky.asp)
-API: [OpenWeatherMap.org](https://openweathermap.org/api)
+1. CSV file: [Crime in Louisville Dataset 2003-2017](https://www.kaggle.com/jpayne/crime-in-louisville-ky-2003-2017)
+2. Website: [Zip-codes.com](https://www.zip-codes.com/state/ky.asp)
+3. API: [OpenWeatherMap.org](https://openweathermap.org/api)
 
 ### Objective
 The idea is since I want to travel to Louisville, KY for a vacation during the summer. I wanted to see how crime rate in this city has changed over time. In addition, which Zip Code has the most crime counts; since Zip Code is the common variable because for the next two datasets I will use Zip Code to get weather information through OpenWeatherMap and to see the total demographics of that particular Zip Code. I will use this website data file and scrape Zip Codes for Kentucky and use those Zip Codes to pull weather data from the next source of data through the use of API key. Overall, the goal of the project is that I can get weather information for every zip code available in the city of Louisville, KY and also see how the crime rate through different types of crimes are.
