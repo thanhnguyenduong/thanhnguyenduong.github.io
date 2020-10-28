@@ -214,7 +214,7 @@ df = df.replace({'Survived': {1: 'yes', 0: 'no'}})
 ```
 
 
-![png](output_14_0.png)
+![png](/images/output_14_0.png)
 
 
 
@@ -303,7 +303,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](/images/output_19_0.png)
 
 
 #### 7:  Barcharts: set up the figure size
@@ -354,7 +354,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png]((/images/output_21_0.png))
 
 
 #### Step 8: Pearson Ranking
@@ -376,7 +376,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](/images/output_23_0.png)
 
 
 #### Step 9:  Compare variables against Survived and Not Survived
@@ -414,7 +414,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![png](/images/output_25_0.png)
 
 
 #### Step 10 - stacked bar charts to compare survived/not survived
@@ -466,7 +466,7 @@ plt.show()
 ```
 
 
-![png](output_27_0.png)
+![png](/images/output_27_0.png)
 
 
 #### Step 11 - fill in missing values and eliminate features
@@ -542,7 +542,7 @@ plt.tick_params(axis='both', labelsize=15)
 ```
 
 
-![png](output_32_0.png)
+![png](/images/output_32_0.png)
 
 
 #### Step 13 - convert categorical data to numbers
@@ -738,13 +738,13 @@ g = visualizer.poof()
 ```
 
 
-![png](output_40_0.png)
+![png](/images/output_40_0.png)
 
 
 
-![png](output_40_1.png)
+![png](/images/output_40_1.png)
 
 
 
-![png](output_40_2.png)
+![png](/images/output_40_2.png)
 
