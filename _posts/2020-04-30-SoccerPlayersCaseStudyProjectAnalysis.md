@@ -116,7 +116,7 @@ These changes did not improve the Test Accuracy of the model. Based on the analy
 have performed so far, it appears that this dataset does not include features that can accurately
 predict market value of a player.  
 
-### Model Evaluation and Selection - Part 3
+### Part 3 - Model Evaluation and Selection
   I performed Model Evaluation to predict two features: position and region. For this case
 study, I am considering which features are the most aligned with all the features available to see
 if there are any trends with assessing market value of a player and these two each have four
