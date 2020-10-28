@@ -152,12 +152,10 @@ Position adjustment for 90/10 for position.
 ![PNG](/images/soccer/soccer_28-29.png)
 ![PNG](/images/soccer/soccer_30.png)
 
-Conclusion
+### Conclusion
 The original question for this project was to see if there were any trends for the market value of a
 player based on their experience in the Premier League, country of origin, position, and
 popularity. In Section 2, I was unable to show a collection of variables that could accurately
-predict the market value. However, when trying to predict position or region (where market value was an included variable), it was possible to create a model with a high accuracy. These
-two sections teach me that there may still be a way to predict the market value of a player with
-some different approaches. For example, if a heavier weight is placed on variables connected to
-popularity (wikipedia page views, presence in a big club), we may be able to improve the
-accuracy of predicting the market value of a player.
+predict the market value. However, when trying to predict position or region (where market value was an included variable), 
+it was possible to create a model with a high accuracy. These two sections teach me that there may still be a way to predict the market value of a player with
+some different approaches. For example, if a heavier weight is placed on variables connected to popularity (wikipedia page views, presence in a big club), we may be able to improve the accuracy of predicting the market value of a player.
