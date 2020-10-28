@@ -178,7 +178,7 @@ df = df.replace({'Survived': {1: 'yes', 0: 'no'}})
 ```
 
 
-![](/images/output_12_0.png)
+![test](/images/output_12_0.png)
 
 
 
