@@ -5,13 +5,13 @@ tags: [Python, Case Study, Analysis, Machine learning, data science]
 header:
   image: "/images/projects 2.jpg"
   caption: "Photo credit: TheDataScientist.com"
-excerpt: "This project is about Titanic Case Study"
+excerpt: "This project is a Case Study on Soccer Players"
 ---
 
 ********************************************
 
 
-Case Study Part 1 – Graph Analysis
+### Case Study Part 1 – Graph Analysis
 
 ### Introduction
 Soccer has always been my favorite sport. Been playing soccer when I was young made me realize that dreams can be pursuit if you really put your heart into it. 
@@ -21,12 +21,12 @@ This dataset for the case study contains data about Premier League soccer player
 We will explore if there are any trends in player history, country of origin, and popularity in applying this data
 
 ### Dataset
-The data is for the 2017-2018 season of the Premier League. The dataset was sourced from Kaggle at the following link: https://www.kaggle.com/mauryashubham/english-premier-league-players-dataset
+The data is for the 2017-2018 season of the Premier League. The dataset was sourced from Kaggle at the following [Kaggle link](https://www.kaggle.com/mauryashubham/english-premier-league-players-dataset)
+
 The variables in the dataset are as follows:
 1) Name - Name of the player
 2) Club - Club of the player
 3) Age - Age of the player
-Nguyen-Duong DSC 550 2
 4) Position - The usual position of the player
 5) Position Category - Divided into four categories: Attackers, Midfielders, Defenders, Goalkeepers
 6) Market Value - Value on transfermrkt.com on July 20th, 2017
@@ -41,8 +41,11 @@ Nguyen-Duong DSC 550 2
 15) Club_id - ID number for club
 16) Big_club - Binary. Whether player is part of a Top 6 club.
 17) New_signing - Binary. Whether a new signing for 2017/18 (till 20th July)
+
 Here is a preview of the data:
-Nguyen-Duong DSC 550 3
+
+![PNG](picture)
+
 Here are the types of variables in the data:
 Nguyen-Duong DSC 550 4
 Graph Analysis
