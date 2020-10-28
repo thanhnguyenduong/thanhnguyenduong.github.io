@@ -1787,7 +1787,7 @@ import time
 ```python
 # define get_weather function to extract data from API
 def get_weather(code):
-    API_KEY = '303edfe18e79163b5aa9cea46e5b8e65'
+    API_KEY = 'enteryourAPIkeyhere'
     url_base = 'http://api.openweathermap.org/data/2.5/weather?'
     url = url_base+'zip='+code+',us&appid='+API_KEY+'&units=imperial'
     r = requests.get(url)
