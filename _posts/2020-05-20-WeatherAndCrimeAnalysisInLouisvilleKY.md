@@ -22,8 +22,7 @@ The idea is since I want to travel to Louisville, KY for a vacation during the s
 
 ### Accomplishments
 This project gives me an opportunity to understand how to web scrape data from a website using BeautifulSoup, though Scrapy can also be used here. Aside from web scraping, I had to be able to request and get data through an API key and combined all of these data from different sources(csv, website and API) to create a master dataframe and analyze from there. 
-______________________________________________________________________________________________________
-
+*********************************************
 ```python
 import pandas as pd
 import seaborn as sns
