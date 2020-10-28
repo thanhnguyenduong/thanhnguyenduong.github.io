@@ -16,23 +16,6 @@ excerpt: "This project is about Titanic Case Study"
 ## Objective
   The objective of this project was to get familiar with how a case study work and learning to perform data analysis from start to finish as well as creating a predictive model through training and testing the models. The model that I chose for this case study was logistic regression.
 
-
-
-## Thanh Nguyen-Duong
-### DSC 550 Titanic Case Study Complete
-### 4/30/2020
-
-#### Part 1
-**Graphics Analysis**  
-
-#### Part 2
-**Feature Reduction (Extraction/Selection)**  
-**Filling in Missing Values**
-
-#### Part 3
-**Split Train Test**  
-**Model Selection and Evaluation**
-
 *********************************************
 ## Titanic Tutorial Part 1: 
 
