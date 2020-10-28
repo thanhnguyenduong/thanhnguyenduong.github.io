@@ -44,11 +44,11 @@ The variables in the dataset are as follows:
 
 Here is a preview of the data:
 
-![PNG](/images/soccer_1.png)
+![PNG](/images/soccer/soccer_1.png)
 
 Here are the types of variables in the data:
 
-![PNG](/images/soccer_2.png)
+![PNG](/images/soccer/soccer_2.png)
 
 Graph Analysis
 First, I generated histograms of four variables to understand the spread of some of the variables.
@@ -58,7 +58,7 @@ The histograms show the following initial insights:
 - Market Value - Most players are valued at 15 million or less
 - Page Views - Most players receive 1,000 or less daily Wikipedia views
 
-![PNG](/images/soccer_3.png)
+![PNG](/images/soccer/soccer_3.png)
 
 I explored four variables in bar charts to understand how the values compare. The following insights can be drawn from these bar charts:
 - Position - Confirmed that goalkeepers are the least present in the dataset
@@ -66,51 +66,51 @@ I explored four variables in bar charts to understand how the values compare. Th
 - New Foreign - Most players in the dataset are not new foreign players to the Premier League
 - New Signing - Most players in the dataset are not new players to the Premier League
 
-![PNG](/images/soccer_4.png)
+![PNG](/images/soccer/soccer_4.png)
 
 Pearson Ranking was done on the four variables I selected earlier. There appears to be a strong correlation between market value and page views signifying that popularity can be part of the value a player is seen as contributing to the team.
 
-![PNG](/images/soccer_5.png)
+![PNG](/images/soccer/soccer_5.png)
 
 For the comparison part of this case study, I decided to perform analysis on the binary variable of whether the player was a new player to the league or not.
 
-![PNG](/images/soccer_6.png)
+![PNG](/images/soccer/soccer_6.png)
 
 
 I then applied the New Signing variable to three additional variables for comparison. The most important insight is that there are no players in the dataset who are both new to the Premier League and a new Foreign player.
 
-![PNG](/images/soccer_7.png)
+![PNG](/images/soccer/soccer_7.png)
 
 ### Case Study Part 2 – Dimensionality and Feature Reduction
 Considering the dataset and my original question, the feature that made the most sense to predict was Market Value. Since the target vector is quantitative, I decided to use linear regression for my model.
 The first step I took was to convert categorical data to numbers. I used One Hot Encoding on Position Category and Region. The resulting set of all features after this process are below.
 
-![PNG](/images/soccer_8.png)
+![PNG](/images/soccer/soccer_8.png)
 
 For my initial analysis, I wanted to include all Features available. I split the Features and
 Targets and then placed each row in its own array. The first five rows of each set are displayed
 below.
 
-![PNG](/images/soccer_9.png)
+![PNG](/images/soccer/soccer_9.png)
 
 I then split each set into a test and training set with the test set being 30% of the data.
 Once that was complete, I created a scaler object that I fitted to the test and training set. Once
 complete, I ran both the L1 and L2 models with various strengths. I have included the results
 below.
 
-![PNG](/images/soccer_10.png)
-![PNG](/images/soccer_11.png)
+![PNG](/images/soccer/soccer_10.png)
+![PNG](/images/soccer/soccer_11.png)
 
 The resulting Test scores in all cases are very close to zero so I made a couple of changes before running the model again. I increased the Training Set from 70% to 85% and reviewed individual variables.  
 
 After analyzing the statistical relevance of the individual features, it appeared that the features from all fantasy scores (variables Fpl_value, Fpl_sel, and Fpl_points) achieved the same results as each other. I decided to run the test again with these variables removed and compare the results.  
 
-![PNG](/images/soccer_12.png)
+![PNG](/images/soccer/soccer_12.png)
 
 Here are the results with the increased training dataset and the Fantasy League variables removed.  
 
-![PNG](/images/soccer_13.png)
-![PNG](/images/soccer_14.png)
+![PNG](/images/soccer/soccer_13.png)
+![PNG](/images/soccer/soccer_14.png)
 
 These changes did not improve the Test Accuracy of the model. Based on the analysis I
 have performed so far, it appears that this dataset does not include features that can accurately
@@ -124,17 +124,17 @@ options which makes it most suitable for this week’s task of selecting a super
   For predicting the region feature, I started with the 70/30 split and the results presented a
 perfect accuracy.
 
-![PNG](/images/soccer_15.png)
-![PNG](/images/soccer_16.png)
-![PNG](/images/soccer_17.png)
-![PNG](/images/soccer_18.png)
+![PNG](/images/soccer/soccer_15.png)
+![PNG](/images/soccer/soccer_16.png)
+![PNG](/images/soccer/soccer_17.png)
+![PNG](/images/soccer/soccer_18.png)
 
   I tried the same ratios on the position features, and I got the same overall results.
   
-![PNG](/images/soccer_19-20.png)
+![PNG](/images/soccer/soccer_19-20.png)
 
-![PNG](/images/soccer_21.png)
-![PNG](/images/soccer_22.png)
+![PNG](/images/soccer/soccer_21.png)
+![PNG](/images/soccer/soccer_22.png)
 
 I wanted to test the validity of this scoring, so I dramatically reduced the training set to 10% with
 a 90% validation set and the scores did start to adjust but the accuracy was still significant in
@@ -142,15 +142,15 @@ most categories.
 
 Region adjustment to 90/10 for region.
 
-![PNG](/images/soccer_23-24.png)
-![PNG](/images/soccer_25-26.png)
+![PNG](/images/soccer/soccer_23-24.png)
+![PNG](/images/soccer/soccer_25-26.png)
 
 
 Position adjustment for 90/10 for position.
 
-![PNG](/images/soccer_27.png)
-![PNG](/images/soccer_28-29.png)
-![PNG](/images/soccer_30.png)
+![PNG](/images/soccer/soccer_27.png)
+![PNG](/images/soccer/soccer_28-29.png)
+![PNG](/images/soccer/soccer_30.png)
 
 Conclusion
 The original question for this project was to see if there were any trends for the market value of a
