@@ -10,9 +10,6 @@ excerpt: "This project is a Case Study on Soccer Players"
 
 ********************************************
 
-
-### Case Study Part 1 – Graph Analysis
-
 #### Introduction
 Soccer has always been my favorite sport. Been playing soccer when I was young made me realize that dreams can be pursuit if you really put your heart into it. 
 However, the one thing I do not understand was many soccer athletes are paid enormous amounts compared to others. 
@@ -50,7 +47,7 @@ Here are the types of variables in the data:
 
 ![PNG](/images/soccer/soccer_2.png)
 
-Graph Analysis
+### Case Study Part 1 – Graph Analysis  
 First, I generated histograms of four variables to understand the spread of some of the variables.
 The histograms show the following initial insights:
 - Age - Normal distribution with an average age range of 26-28
