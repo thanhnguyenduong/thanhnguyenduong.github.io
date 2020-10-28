@@ -197,9 +197,6 @@ df = df.replace({'Survived': {1: 'yes', 0: 'no'}})
 
 
 
-
-
-
 ```python
 (ggplot(df, aes(x='Fare', fill='Survived')) +
         geom_histogram()
@@ -211,9 +208,6 @@ df = df.replace({'Survived': {1: 'yes', 0: 'no'}})
 
 
 
-
-
-    <ggplot: (105036872406)>
 
 
 
@@ -270,7 +264,7 @@ print(data.describe(include=['O']))
     
 
 #### Step 6: import visualization packages
-*(As a rule, I put all my imports in cell 1...)*
+
 
 
 ```python
