@@ -8,8 +8,6 @@ header:
 excerpt: "This project analyzes the weather temperature and crime statistics in Louisville, KY"
 ---
 
-For my full analysis of this project, please refer to [City of Louisville, KY Analysis](https://nbviewer.jupyter.org/github/thanhnguyenduong/DSC540_Weather_and_Crime_analysis_in_Louisville-KY/blob/master/Thanh%20Nguyen-Duong%20DSC540%20Milestone%205.ipynb)
-
 ### Data
 For this project, I used 3 datasets that were obtained through three different methods:
 
@@ -527,7 +525,7 @@ df['year'].hist(bins=100)
 
 
 
-![png](output_18_1.png)
+![png](/images/KYoutput_18_1.png)
 
 
 For the year column, anything before Year 2004 are outliers. Thus, I will remove all data for any year before 2004. 
@@ -672,7 +670,7 @@ df_1['year'].hist(bins=100)
 
 
 
-![png](output_21_1.png)
+![png](/images/KYoutput_21_1.png)
 
 
 This histogram showing data for all year from 2004 - 2017 is much better now, with no outliers
@@ -693,7 +691,7 @@ sns.heatmap(df_1[cols].isnull(), cmap=sns.color_palette(colours))
 
 
 
-![png](output_23_1.png)
+![png](/images/KYoutput_23_1.png)
 
 
 This bad or null data heatmap shows us where the missing data are. Yellow is missing and blue is not. It seems we do not have any missing or null data in our dataset or the missing values population is very small to be observed. Thus, to be sure, I will use dropna() function to drop any NA values.
@@ -5812,7 +5810,7 @@ Crime = pd.read_sql("SELECT Crime FROM louisville_crime",engine).astype(str)
 ```
 
 
-![png](output_133_0.png)
+![png](/images/output_133_0.png)
 
 
 
@@ -5843,7 +5841,7 @@ Year = pd.read_sql("SELECT Year FROM louisville_crime",engine).astype(float)
 ```
 
 
-![png](output_137_0.png)
+![png](/images/output_137_0.png)
 
 
 
@@ -5873,7 +5871,7 @@ zip_code = pd.read_sql("SELECT Zip_code FROM louisville_crime where Year = '2017
 ```
 
 
-![png](output_141_0.png)
+![png](/images/output_141_0.png)
 
 
 
@@ -5902,7 +5900,7 @@ crime_40203 = pd.read_sql("SELECT Crime FROM louisville_crime where Zip_code = '
 ```
 
 
-![png](output_145_0.png)
+![png](/images/output_145_0.png)
 
 
 
@@ -5936,7 +5934,7 @@ plt.show()
 ```
 
 
-![png](output_149_0.png)
+![png](/images/output_149_0.png)
 
 
 **It looks like all Zip codes in Louisville had approximately the same temperatures**
@@ -5962,7 +5960,7 @@ plt.show()
 ```
 
 
-![png](output_153_0.png)
+![png](/images/output_153_0.png)
 
 
 **For all 32 Zip codes of Louisville, it had similar humidity level of more than 80 and a wind speed of around 5-6**
@@ -5990,7 +5988,7 @@ plt.show()
 ```
 
 
-![png](output_157_0.png)
+![png](/images/output_157_0.png)
 
 
 **The temperature range of Louisville was at around 68 degree F with the minimum temperature around 66 F and maximum temperature appears to be around 70 F**
