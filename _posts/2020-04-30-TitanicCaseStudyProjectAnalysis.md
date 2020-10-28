@@ -177,13 +177,10 @@ df = df.replace({'Survived': {1: 'yes', 0: 'no'}})
 )
 ```
 
-
-<a href="_images/output_12_0.png">
-
+![test](/images/output_12_0.png)
 
 
 
-    <ggplot: (105036747367)>
 
 
 
@@ -201,7 +198,7 @@ df = df.replace({'Survived': {1: 'yes', 0: 'no'}})
 
 
 
-    <ggplot: (105036837012)>
+
 
 
 
