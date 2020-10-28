@@ -178,7 +178,7 @@ df = df.replace({'Survived': {1: 'yes', 0: 'no'}})
 ```
 
 
-![png](output_12_0.png)
+![](/images/output_12_0.png)
 
 
 
@@ -196,7 +196,7 @@ df = df.replace({'Survived': {1: 'yes', 0: 'no'}})
 ```
 
 
-![png](output_13_0.png)
+![](/images/output_13_0.png)
 
 
 
