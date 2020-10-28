@@ -6000,8 +6000,3 @@ The temperature range of Louisville was at around 68 degree F with the minimum t
 ### Summary of what I learned and had to do to complete the project
 
 Upon completion of this final project, this course has taught me so much. Before I began this project, I had no idea how to web scraping, somewhat knowledge of pulling API data and how to efficiently clean and perform data wrangling. I had to go through many tutorials, reading the books, and use other resources in order for me to complete this project and perform tasks that I needed to do like how to web scrape, store data into a database and when to appropriately use certain packages. In order for me to fully complete the project, I had to perform data wrangling on my flat files, API and website sources. Then merge all of them together using a common column variable and stored these into a database. After storing the cleaned final dataframe into a database, I can then pull the dataframe back out to do visualizations. For me, web scraping with BeautifulSoup was not as easy as I initially thought it to be. Furthermore, the part that I had to most difficult time was trying to store my pandas dataframes into a database. Pulling API data was also very challenging when it comes to cleaning and storing them into a data frame because the data that got pulled was not too clean and so I had to do a lot of manipulation and data wrangling in order for me to efficiently  merged all of my data sources together.
-
-
-```python
-
-```
