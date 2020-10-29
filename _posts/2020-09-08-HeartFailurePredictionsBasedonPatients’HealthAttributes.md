@@ -30,10 +30,10 @@ The dataset contains 13 features that provide insights on patients’ clinical, 
 In order to build a predictive model, the approach was broken down into three phases. 
 Each phase consist of the tasks that need to be performed before moving onto the next phase.  
 
-• **Phase 1 – Exploratory Data Analysis.**   
+• **Phase 1 – Exploratory Data Analysis**   
 This phase is the first step in all data science analysis assignment. Since the dataset contains 13 variables, and most of the variables may or may not correlate with each other and especially with the feature that we were interested in, which is the death_event variable. Thus, we need to visualize and understand their distributrions. In addition, we need to make sure to check for missing values and outliers.
 
-• **Phase 2 – Feature Selection Phase.**   
+• **Phase 2 – Feature Selection Phase**   
 Once we understand the relationship and correlation between each variable with our primary variable, death_event. We can then select for features that are most influence and have correlation to our selected main variable to build the predictive model upon. We will test various machine learning models to see which one is the most suitable for our predictive model. Various machine learning models that will be used in this model include logistic regression, support vector machine, k-nearest neighbors, random forest and decision trees.  
 
 • **Phase 3 – Model Selection and Evaluation**    
