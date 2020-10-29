@@ -4,7 +4,7 @@ date: 2020-10-08
 tags: [Python, Prediction, Analysis, Machine learning, data science]
 header:
   image: "/images/pd1.jpg"
-  caption:
+  caption: "Photo credit: Prime Medic Inc. and YouAndParkinsons.com"
 excerpt: "This project analyzes and creates a predictive model on a Parkinson's Disease dataset"
 
 ---
