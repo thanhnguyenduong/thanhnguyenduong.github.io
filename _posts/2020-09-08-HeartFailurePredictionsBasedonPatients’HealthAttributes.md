@@ -117,8 +117,9 @@ From Figure 10, we saw platelets and Creatinine Phosphokinase enzymes do not see
 Based on the correlation heatmap, the variables I will be choosing to use in my predictive models are time, serum_creatinine, ejection fraction, age, and serum sodium.
 
 #### Phase 3 – Models Selection and Evaluation
-For this phase, we used an iterative modeling approach to determine the best model for the predictions. In total, five different models were used: logistic regression, k-nearest neighbors, support vector machine, decision tree and random forest. A result and accuracy score about each model will be outlined below:  
-• Model 1: Logistic Regression
+For this phase, we used an iterative modeling approach to determine the best model for the predictions. In total, five different models were used: logistic regression, k-nearest neighbors, support vector machine, decision tree and random forest. A result and accuracy score about each model will be outlined below:
+
+• **Model 1: Logistic Regression**
 
 Logistic regression is somewhat similar to linear regression and is a classification model instead of a regression model, as it uses a logistic function to plot binary output model. The accuracy score obtain is noted down in Figure 11.
 
@@ -127,7 +128,8 @@ Logistic regression is somewhat similar to linear regression and is a classifica
 | *Figure 11: Logistic Regression accuracy table.* |
 
 With Logistic Regression, we were able to obtain an accuracy score of 90% with training score of about 82%.  
-• Model 2: Support Vector Machine
+
+• **Model 2: Support Vector Machine**
 
 Support vector machine can be used for both classification and regression. The accuracy score obtained for SVM is in Figure 12.
 
@@ -137,7 +139,7 @@ Support vector machine can be used for both classification and regression. The a
 
 With Support Vector Machine, an accuracy score for this predictive model was 91.67% with the training score of 83.68%  
 
-• Model 3: K-Nearest Neighbors (KNN)
+• **Model 3: K-Nearest Neighbors (KNN)**
 
 KNN is a non-parametric model used for both in classification and regression. It is also known as a lazy learning model with local approximation (Tripoliti, 2017). In KNN, we look for k neighbors and come up with a prediction. For the prediction, we used a k of 5, anything higher than 5 will generate in a reduction in our accuracy model.
 
@@ -147,7 +149,7 @@ KNN is a non-parametric model used for both in classification and regression. It
 
 For KNN, the accuracy we got was 88.33% with a training score of 85.77% as noted in Figure 13.  
 
-• Model 4: Decision Tree
+• **Model 4: Decision Tree**
 
 Decision Tree is used to solve regression and classification problems. Decision trees are used for dependent variable with continuous values, and classification trees are used for dependent variable with discrete values. Decision tree is derived from the independent variables, with each node having a condition over a feature. The nodes decides which node to navigate next based on the condition. Once the leaf node is reached, an output is predicted (Latha, 2019).
 
@@ -157,7 +159,7 @@ Decision Tree is used to solve regression and classification problems. Decision 
 
 In Figure 14, we saw an accuracy of decision tree predictive model was 91.67% and our training score was perfect which is very interesting.  
 
-• Model 5: Random Forest  
+• **Model 5: Random Forest**
 
 Random Forest is an ensemble model where multiple decision trees are combined for a stronger and more accurate model. Random Forest comes up with a robust, accurate model that can handle large varieties of input data with binary, categorical, continuous features (Latha, 2019).
 
@@ -165,7 +167,8 @@ Random Forest is an ensemble model where multiple decision trees are combined fo
 |:--:| 
 | *Figure 15: Random Forest predictive model accuracy score.* |
 
-Based on Figure 15, the accuracy score achieved for Random Forest was 96.67% with a perfect training score on our dataset.
+Based on Figure 15, the accuracy score achieved for Random Forest was 96.67% with a perfect training score on our dataset.  
+
 The overall summary of all accuracy score achieved by all five models is listed in Table 1, ranking from highest to lowest in terms of accuracy score.
 
 | ![PNG](/images/hf/hf_table1.png)   | 
