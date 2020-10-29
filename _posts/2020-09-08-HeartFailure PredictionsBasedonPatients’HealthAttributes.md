@@ -37,59 +37,124 @@ This phase is the first step in all data science analysis assignment. Since the 
 
 ### Results
 #### Phase 1 - Exploratory Data Analysis (EDA)  
-The code and analysis were all done using Python with Jupyter Notebook. The first step to any data science analysis was to preprocess the dataset and to see if there are any null or missing values. Since there were no missing values, we can begin analyzing and seeing correlations or relationships between different features. The first analysis was done to see the distribution in age of all the samples in the dataset. From Figure 1, most of the patients are in the age range
-Figure 1: Patients’ age distribution
-of 50 – 70 years old with the majority of patients are around 60 years old and a few are at least 90 years old.
+The code and analysis were all done using Python with Jupyter Notebook. The first step to any data science analysis was to preprocess the dataset and to see if there are any null or missing values. Since there were no missing values, we can begin analyzing and seeing correlations or relationships between different features. The first analysis was done to see the distribution in age of all the samples in the dataset.
+
+| ![PNG](/images/hf/hf_1.png)   | 
+|:--:| 
+| *Figure 1: Patients’ age distribution.* |
+
+
+From Figure 1, most of the patients are in the age range of 50 – 70 years old with the majority of patients are around 60 years old and a few are at least 90 years old.
 From age distribution, we added another variable to see the correlation in age between gender in our sample set. Figure 2 shows a box-and-whisker plot of the correlation between age and gender in the sample.
-Figure 2: Gender and Age distribution with male being 1 and female being 0
+
+
+| ![PNG](/images/hf/hf_2.png)   | 
+|:--:| 
+| *Figure 2: Gender and Age distribution with male being 1 and female being 0.* |
+
+
 Based on the gender and age distribution in Figure 2, the variation in the age for male patients are much higher than female patients. The spread in age for male is uniformly from the age 40 - 90 whereas female age distribution is mostly concentrated around 40 – 70.
-Figure 3: Distributions of all categorical variables in the dataset
-Bellevue University Page | 7
+
+
+| ![PNG](/images/hf/hf_3.png)   | 
+|:--:| 
+| *Figure 3: Distributions of all categorical variables in the dataset.* |
+
+
 From Figure 3, around 43% of the sample has anaemia, 41% has diabetes, 35% has high blood pressure, 32% do smoke, and some may have more than one conditions. Digging deeper into the dataset and seeing relationships between different features, we plotted a histogram to compare death_event versus number of follow-up visits as shown in Figure 4.
-Figure 4: Number of follow-up visits and death_event occurrence distribution
+
+
+| ![PNG](/images/hf/hf_4.png)   | 
+|:--:| 
+| *Figure 4: Number of follow-up visits and death_event occurrence distribution.* |
+
+
 It seems like the frequency in number of follow-up visits correlate with death_event, or the chance of a patient being survived or dead with a heart failure disease. The more frequently a patient visit for their regular follow-up visits, the higher the chance they will survive and vice versa.
 Previously, it is thought that creatinine phosphokinase will flow into the blood if a muscle tissue gets damage, which may also be one of the indications of heart failure (Stewart, 2020). Thus, we wanted the find any correlation between creatinine phosphokinase and death event, which is shown in Figure 5.
-Bellevue University Page | 8
-Figure 5: Relationship and distribution between creatinine phosphokinase level and death event
+
+| ![PNG](/images/hf/hf_5.png)   | 
+|:--:| 
+| *Figure 5: Relationship and distribution between creatinine phosphokinase level and death event.* |
+
+
 The distribution trend for Creatinine Phosphokinase, or CPK, seem to be very similar between those samples that have survived and those who did not survive the heart failure event. There were a few outliers in the CPK level, but those were very minimal and has been disregarded in the analysis.
-Figure 6: distribution of serum sodium on survival status
-Looking at the distribution trend for serum sodium on survival status either survived or death due to heart failure in Figure 6, those survived heart failure have a slightly higher distribution curve of serum sodium in their bloodstream than those who did not survive after their heart
-Bellevue University Page | 9
-failure disease. The median serum sodium in bloodstream for those survived was around 137, while those did not survive had a median level of 134.
-Figure 7: distribution of serum creatinine on survival status
+
+| ![PNG](/images/hf/hf_6.png)   | 
+|:--:| 
+| *Figure 6: distribution of serum sodium on survival status.* |
+
+
+Looking at the distribution trend for serum sodium on survival status either survived or death due to heart failure in Figure 6, those survived heart failure have a slightly higher distribution curve of serum sodium in their bloodstream than those who did not survive after their heartfailure disease. The median serum sodium in bloodstream for those survived was around 137, while those did not survive had a median level of 134.
+
+| ![PNG](/images/hf/hf_7.png)   | 
+|:--:| 
+| *Figure 7: distribution of serum creatinine on survival status.* |
+
+
 Serum creatinine level is lower in those survived with heart failure disease compared to those did not survive, based on the trend observed in Figure 7. The median serum creatinine level of 1 is for those who survived with heart failure. On the other hand, the median serum creatinine level for those who died from heart failure was 1.5. The serum creatinine is a byproduct of creatinine and renal dysfunction may be the reason of high levels serum creatinine (Stephens, 2019) which can explain why those who passed away due to heart failure had such high level of serum creatinine.
-Bellevue University Page | 10
-Figure 8: The distribution of ejection fraction between death and survived group of patients with heart failure.
+
+| ![PNG](/images/hf/hf_8.png)   | 
+|:--:| 
+| *Figure 8: The distribution of ejection fraction between death and survived group of patients with heart failure.* |
+
+
 With regards to ejection fraction, we saw a high percentage of ejection fraction in blood as one of the characteristics in the group of patients that survived and live after been diagnosed with heart failure. However, for those died due to heart failure, they had a much lower percentage of ejection fraction in their blood (Tripoliti, 2017).
 Another variable and trend we wanted to look at was the platelet counts to see if it has any influence on death events. However, we did not see any differences between the number of platelets in patients that survived versus patients that died due to heart failure. The chart, or Figure 9 can be observed in Appendix A section.
-Phase 2 – Features selection
+
+#### Phase 2 – Features selection
 After understanding the overall relationships and trends between different features, we performed a feature selection step using a heatmap correlation to see which features have the most influence on death event variable shown in Figure 10.
-Bellevue University Page | 11
-Figure 10: Heat map correlation of all variables in the dataset.
+
+| ![PNG](/images/hf/hf_10.png)   | 
+|:--:| 
+| *Figure 10: Heat map correlation of all variables in the dataset.* |
+
+
 From Figure 10, we saw platelets and Creatinine Phosphokinase enzymes do not seem to have an effect on survival as well as with other variables including smoking, sex, high blood pressure, diabetes and anaemia; thus, it makes sense to drop these variables and not select them to build our model upon.
 Based on the correlation heatmap, the variables I will be choosing to use in my predictive models are time, serum_creatinine, ejection fraction, age, and serum sodium.
-Phase 3 – Models Selection and Evaluation
-Bellevue University Page | 12
-For this phase, we used an iterative modeling approach to determine the best model for the predictions. In total, five different models were used: logistic regression, k-nearest neighbors, support vector machine, decision tree and random forest. A result and accuracy score about each model will be outlined below:
+
+#### Phase 3 – Models Selection and Evaluation
+For this phase, we used an iterative modeling approach to determine the best model for the predictions. In total, five different models were used: logistic regression, k-nearest neighbors, support vector machine, decision tree and random forest. A result and accuracy score about each model will be outlined below:  
 • Model 1: Logistic Regression
+
 Logistic regression is somewhat similar to linear regression and is a classification model instead of a regression model, as it uses a logistic function to plot binary output model. The accuracy score obtain is noted down in Figure 11.
-Figure 11: Logistic Regression accuracy table
-With Logistic Regression, we were able to obtain an accuracy score of 90% with training score of about 82%.
+
+| ![PNG](/images/hf/hf_11.png)   | 
+|:--:| 
+| *Figure 11: Logistic Regression accuracy table.* |
+
+With Logistic Regression, we were able to obtain an accuracy score of 90% with training score of about 82%.  
 • Model 2: Support Vector Machine
+
 Support vector machine can be used for both classification and regression. The accuracy score obtained for SVM is in Figure 12.
-Figure 12: Support Vector Machine accuracy table
-With Support Vector Machine, an accuracy score for this predictive model was 91.67% with the training score of 83.68%
-Bellevue University Page | 13
+
+| ![PNG](/images/hf/hf_12.png)   | 
+|:--:| 
+| *Figure 12: Support Vector Machine accuracy table.* |
+
+With Support Vector Machine, an accuracy score for this predictive model was 91.67% with the training score of 83.68%  
+
 • Model 3: K-Nearest Neighbors (KNN)
+
 KNN is a non-parametric model used for both in classification and regression. It is also known as a lazy learning model with local approximation (Tripoliti, 2017). In KNN, we look for k neighbors and come up with a prediction. For the prediction, we used a k of 5, anything higher than 5 will generate in a reduction in our accuracy model.
-Figure 13: Accuracy score for KNN predictive model
-For KNN, the accuracy we got was 88.33% with a training score of 85.77% as noted in Figure 13.
+
+| ![PNG](/images/hf/hf_13.png)   | 
+|:--:| 
+| *Figure 13: Accuracy score for KNN predictive model.* |
+
+For KNN, the accuracy we got was 88.33% with a training score of 85.77% as noted in Figure 13.  
+
 • Model 4: Decision Tree
+
 Decision Tree is used to solve regression and classification problems. Decision trees are used for dependent variable with continuous values, and classification trees are used for dependent variable with discrete values. Decision tree is derived from the independent variables, with each node having a condition over a feature. The nodes decides which node to navigate next based on the condition. Once the leaf node is reached, an output is predicted (Latha, 2019).
-Figure 14: Accuracy score for Decision Tree predictive model
-In Figure 14, we saw an accuracy of decision tree predictive model was 91.67% and our training score was perfect which is very interesting.
-Bellevue University Page | 14
-• Model 5: Random Forest
+
+| ![PNG](/images/hf/hf_13.png)   | 
+|:--:| 
+| *Figure 14: Accuracy score for Decision Tree predictive model.* |
+
+In Figure 14, we saw an accuracy of decision tree predictive model was 91.67% and our training score was perfect which is very interesting.  
+
+• Model 5: Random Forest  
+
 Random Forest is an ensemble model where multiple decision trees are combined for a stronger and more accurate model. Random Forest comes up with a robust, accurate model that can handle large varieties of input data with binary, categorical, continuous features (Latha, 2019).
 Figure 15: Random Forest predictive model accuracy score
 Based on Figure 15, the accuracy score achieved for Random Forest was 96.67% with a perfect training score on our dataset.
