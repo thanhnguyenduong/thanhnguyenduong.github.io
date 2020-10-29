@@ -39,7 +39,7 @@ Once we understand the relationship and correlation between each variable with o
 After the features were selected, they will be used to build the predictive models in this phase. The model will be run and trained by using existing data in the dataset.
 
 ### Results
-#### Phase 1 - Exploratory Data Analysis (EDA)  
+#### Phase 1 - Exploratory Data Analysis (EDA)
 The code and analysis were all done using Python with Jupyter Notebook. The first step to any data science analysis was to preprocess the dataset and to see if there are any null or missing values. Since there were no missing values, we can begin analyzing and seeing correlations or relationships between different features. The first analysis was done to see the distribution in age of all the samples in the dataset.
 
 | ![PNG](/images/hf/hf_1.png)   | 
