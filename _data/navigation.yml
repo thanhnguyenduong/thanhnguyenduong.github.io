@@ -6,7 +6,7 @@ main:
  #   url: /machine-learning/
   - title: "Projects"
     url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Projects Grid"
+    url: /year-archive-grid/
   # - title: "Sitemap"
   #   url: /sitemap/
