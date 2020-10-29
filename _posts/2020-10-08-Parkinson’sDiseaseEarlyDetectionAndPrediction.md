@@ -3,7 +3,8 @@ title: "Parkinson's Disease Early Detection and Prediction"
 date: 2020-10-08
 tags: [Python, Prediction, Analysis, Machine learning, data science]
 header:
-  image: "/images/parkinsondisease1.jpg"
+  image: "/images/pd1.jpg"
+  caption:
 excerpt: "This project analyzes and creates a predictive model on a Parkinson's Disease dataset"
 
 ---
