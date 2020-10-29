@@ -2,6 +2,6 @@
 title: "Projects by Year"
 permalink: /year-archive-grid/
 layout: posts
-entries_layout:grid
+entries_layout: grid
 author_profile: true
 ---
