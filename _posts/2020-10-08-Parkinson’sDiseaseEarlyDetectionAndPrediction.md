@@ -29,6 +29,7 @@ Using a dataset obtained from Kaggle.com, this paper will attempt to answer the 
      [Parkinson's Dataset](https://www.kaggle.com/nidaguler/parkinsons-data-set)  
 
 The dataset was created by Max Little of the University of Oxford, in collaboration with the National Centre for Voice and Speech in Denver, Colorado, who recorded the speech signals. The dataset contains a range of biomedical voice measurements collected from a sample of 31 people, 23 with Parkinson’s Disease and the remaining 8 are healthy individuals. Each column in the table is a particular voice measure, and each row corresponds to one of 195 voice recording from these individuals. The main aim of the data is to discriminate healthy people from those with Parkinson’s Disease, according to the “status” column variable which is set to 0 for healthy and 1 for Parkinson’s Disease. Each row of the CSV file contains an instance corresponding to one voice recording, and there are approximately six recordings per patient (Max A., et. al, 2008).
+
 The variables in the dataset are different measurements of speech. These variables include three measures of vocal fundamental frequency, five measures of variations in fundamental frequency, six measures of variation in amplitude, two measures of ratio of noise to tonal components in the voice, two nonlinear dynamical complexity measures, signal fractal scaling exponent, and three nonlinear measures of fundamental frequency variation (Max A., et. al, 2008).
 
 
