@@ -1,7 +1,6 @@
 ---
 title: "Projects by Year"
-permalink: /year-archive-grid/
+permalink: /year-archive/
 layout: posts
-entries_layout: grid
 author_profile: true
 ---
