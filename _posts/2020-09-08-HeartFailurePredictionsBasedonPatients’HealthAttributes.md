@@ -9,7 +9,7 @@ classes: wide
 excerpt: "This project analyzes a dataset on heart failure and creates a prediction based on patients' health records"
 ---
 
-For my full code, please visit this link [link](https://nbviewer.jupyter.org/github/thanhnguyenduong/DSC680_Graduate_Program_Machine_Learning_Projects/blob/244a86c29709fb9e7da04de57e2fc6d724071bca/Project%201_Heart%20Failure%20Predictive%20Models/Heart%20Failure%20Predictive%20Modeling%20Code.ipynb) 
+For my full code, please visit this [link](https://nbviewer.jupyter.org/github/thanhnguyenduong/DSC680_Graduate_Program_Machine_Learning_Projects/blob/244a86c29709fb9e7da04de57e2fc6d724071bca/Project%201_Heart%20Failure%20Predictive%20Models/Heart%20Failure%20Predictive%20Modeling%20Code.ipynb) 
 
 ************************************************************************
 
