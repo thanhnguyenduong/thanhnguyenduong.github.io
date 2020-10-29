@@ -163,7 +163,7 @@ In Figure 14, we saw an accuracy of decision tree predictive model was 91.67% an
 
 Random Forest is an ensemble model where multiple decision trees are combined for a stronger and more accurate model. Random Forest comes up with a robust, accurate model that can handle large varieties of input data with binary, categorical, continuous features (Latha, 2019).
 
-| ![PNG](/images/hf/hf_13.png)   | 
+| ![PNG](/images/hf/hf_15.png)   | 
 |:--:| 
 | *Figure 15: Random Forest predictive model accuracy score.* |
 
@@ -171,7 +171,7 @@ Based on Figure 15, the accuracy score achieved for Random Forest was 96.67% wit
 
 The overall summary of all accuracy score achieved by all five models is listed in Table 1, ranking from highest to lowest in terms of accuracy score.
 
-| ![PNG](/images/hf/hf_table1.png)   | 
+| ![PNG](/images/hf/table1.png)   | 
 |:--:| 
 | *Table 1: Accuracy score summary table of all predictive models* |
 
