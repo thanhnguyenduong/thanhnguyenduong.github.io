@@ -41,7 +41,6 @@ existing data in the dataset. During this phase, each models will then be evalua
 Once predictive model for Parkinson’s Disease is built, we will also observe to understand which variable or variables are most influenced in our predictive model.  
 
 ### Results  
-
 #### Phase 1 - Exploratory Data Analysis (EDA)  
 
 The code and analysis were all done using Python with Jupyter Notebook. The first step to any data science analysis was to understand our dataset by preprocess the dataset and to see if there are any null or missing values. Since there were no missing values, we can begin analyzing and seeing correlations or relationships between different features through the use of histogram plots and other visualizations.  
@@ -60,7 +59,7 @@ The code and analysis were all done using Python with Jupyter Notebook. The firs
   Based on the histogram distributions of each variable, most of the variables are either left or right-skewed except for Spread1, Spread2, D2 and PPE which are fairly normal distributed.
 Once we understand our dataset, it was time for us to select features to build our model upon. Due to the dataset having a lot of outliers, we will not be removing them individually but we will build the model using a min-max scaler which will be discussed further in Phase 3.
 
-#### Phase 2 – Features selection  
+#### Phase 2 – Features selection   
 
   After understanding the overall relationships and trends between different features, we performed a features selection step using a heatmap correlation (Figure 3) to understand the correlations between features and their relationships.
 
@@ -70,7 +69,6 @@ Once we understand our dataset, it was time for us to select features to build o
 
 In Figure 3, we saw some variables have really strong correlation with other parameters in their own categories such as Shimmer:DDA, Jitter:DDP, and DVP:RAP. Overall, from Figure 3, all the variables seem to have some correlation and influence in the diagnosis of Parkinson’s Disease
 one way or another. Hence, the reason why doctors performed these voice tests. We decided to include all variables in our predictive model.
-
 
 #### Phase 3 – Models Selection and Evaluation  
 
