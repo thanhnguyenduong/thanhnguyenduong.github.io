@@ -5,6 +5,7 @@ tags: [Python, Case Study, Analysis, Machine learning, data science]
 header:
   image: "/images/projects 2.jpg"
   caption: "Photo credit: TheDataScientist.com"
+classes: wide
 excerpt: "This project is about Titanic Case Study"
 ---
 
