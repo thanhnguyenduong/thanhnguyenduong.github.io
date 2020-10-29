@@ -6,6 +6,7 @@ header:
   image: "/images/pd1.jpg"
   caption: "Photo credit: Prime Medic Inc. and YouAndParkinsons.com"
 excerpt: "This project analyzes and creates a predictive model on a Parkinson's Disease dataset"
+classes: wide
 
 ---
 
