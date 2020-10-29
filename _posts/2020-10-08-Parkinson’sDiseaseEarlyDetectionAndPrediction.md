@@ -4,6 +4,8 @@ date: 2020-10-08
 tags: [Python, Prediction, Analysis, Machine learning, data science]
 header:
   image: "/images/parkinsondisease1.jpg"
+excerpt: "This project analyzes and creates a predictive model on a Parkinson's Disease dataset"
+
 ---
 
 For my full code, please visit this [link](https://nbviewer.jupyter.org/github/thanhnguyenduong/DSC680_Graduate_Program_Machine_Learning_Projects/blob/master/Project%202_Parkinson%27s%20Disease%20Detection%20and%20Prediction/Parkinson%27s%20Disease%20Detection%20and%20Prediction%20Code.ipynb)
