@@ -5,6 +5,7 @@ tags: [Python, weather, crime, data science]
 header:
   image: "/images/louisville.jpg"
   caption: "Photo credit: alexeys/iStock.com"
+classes: wide
 excerpt: "This project analyzes the weather temperature and crime statistics in Louisville, KY"
 ---
 
