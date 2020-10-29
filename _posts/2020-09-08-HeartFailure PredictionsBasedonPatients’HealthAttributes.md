@@ -27,13 +27,16 @@ The dataset contains 13 features that provide insights on patients’ clinical, 
 
 ### Methods
 In order to build a predictive model, the approach was broken down into three phases. 
-Each phase consist of the tasks that need to be performed before moving onto the next phase.
-• Phase 1 – exploratory data analysis.   
+Each phase consist of the tasks that need to be performed before moving onto the next phase.  
+
+• **Phase 1 – Exploratory Data Analysis.**   
 This phase is the first step in all data science analysis assignment. Since the dataset contains 13 variables, and most of the variables may or may not correlate with each other and especially with the feature that we were interested in, which is the death_event variable. Thus, we need to visualize and understand their distributrions. In addition, we need to make sure to check for missing values and outliers.
 
-• Phase 2 – this is the feature selection phase. Once we understand the relationship and correlation between each variable with our primary variable, death_event. We can then select for features that are most influence and have correlation to our selected main variable to build the predictive model upon. We will test various machine learning models to see which one is the most suitable for our predictive model. Various machine learning models that will be used in this model include logistic regression, support vector machine, k-nearest neighbors, random forest and decision trees.  
+• **Phase 2 – Feature Selection Phase.** 
+Once we understand the relationship and correlation between each variable with our primary variable, death_event. We can then select for features that are most influence and have correlation to our selected main variable to build the predictive model upon. We will test various machine learning models to see which one is the most suitable for our predictive model. Various machine learning models that will be used in this model include logistic regression, support vector machine, k-nearest neighbors, random forest and decision trees.  
 
-• Phase 3 – after the features were selected, they will be used to build the predictive models in this phase. The model will be run and trained by using existing data in the dataset.
+• **Phase 3 – Model Selection and Evaluation**   
+After the features were selected, they will be used to build the predictive models in this phase. The model will be run and trained by using existing data in the dataset.
 
 ### Results
 #### Phase 1 - Exploratory Data Analysis (EDA)  
@@ -147,7 +150,7 @@ For KNN, the accuracy we got was 88.33% with a training score of 85.77% as noted
 
 Decision Tree is used to solve regression and classification problems. Decision trees are used for dependent variable with continuous values, and classification trees are used for dependent variable with discrete values. Decision tree is derived from the independent variables, with each node having a condition over a feature. The nodes decides which node to navigate next based on the condition. Once the leaf node is reached, an output is predicted (Latha, 2019).
 
-| ![PNG](/images/hf/hf_13.png)   | 
+| ![PNG](/images/hf/hf_14.png)   | 
 |:--:| 
 | *Figure 14: Accuracy score for Decision Tree predictive model.* |
 
@@ -156,25 +159,41 @@ In Figure 14, we saw an accuracy of decision tree predictive model was 91.67% an
 • Model 5: Random Forest  
 
 Random Forest is an ensemble model where multiple decision trees are combined for a stronger and more accurate model. Random Forest comes up with a robust, accurate model that can handle large varieties of input data with binary, categorical, continuous features (Latha, 2019).
-Figure 15: Random Forest predictive model accuracy score
+
+| ![PNG](/images/hf/hf_13.png)   | 
+|:--:| 
+| *Figure 15: Random Forest predictive model accuracy score.* |
+
 Based on Figure 15, the accuracy score achieved for Random Forest was 96.67% with a perfect training score on our dataset.
 The overall summary of all accuracy score achieved by all five models is listed in Table 1, ranking from highest to lowest in terms of accuracy score.
-Table 1: Accuracy score summary table of all predictive models
-Bellevue University Page | 15
+
+| ![PNG](/images/hf/hf_table1.png)   | 
+|:--:| 
+| *Table 1: Accuracy score summary table of all predictive models* |
+
 Figure 16 shows the accuracy score comparison among all models in a bar plot
-Figure 16: Comparison of different predictive models on accuracy score
-Discussion and Conclusion
-As the exploratory data analysis phase was performed, the dataset and its variables were better understood, and their relationships were visualized. Relying on data analysis techniques like histograms, heatmap, and a data profiling step helps summarized all EDA analysis together. The dataset was very organized and cleaned as we did not see any missing values. Relevant features were identified through correlation heatmap and predictive models were built using these relevant and meaningful features in the second and third phases of our process. Out of 13 variables, eventually only 5 were thought to be relevant and have a great influence for our predictive model.
-Out of the 5 models that we built through training data from our dataset and testing to achieve an accuracy score, Random Forest has the highest accuracy score with 96.67% for the prediction. KNN model was the worst performing model out of all the models we tested with
-Bellevue University Page | 16
-88.33% accuracy. There are more room for improvements if we can adjust hyperparameters using cross-validation to our dataset. In addition, I believe the data sample may be a little bit small with an n = 299. If we have more data sample, our predictive model may be much more accurate, and we may even be able to understand and select more features to build our model.
+
+
+| ![PNG](/images/hf/hf_16.png)   | 
+|:--:| 
+| *Figure 16: Comparison of different predictive models on accuracy score.*|
+
+### Discussion and Conclusion
+As the exploratory data analysis phase was performed, the dataset and its variables were better understood, and their relationships were visualized. Relying on data analysis techniques like histograms, heatmap, and a data profiling step helps summarized all EDA analysis together. The dataset was very organized and cleaned as we did not see any missing values. Relevant features were identified through correlation heatmap and predictive models were built using these relevant and meaningful features in the second and third phases of our process. Out of 13 variables, eventually only 5 were thought to be relevant and have a great influence for our predictive model.  
+
+Out of the 5 models that we built through training data from our dataset and testing to achieve an accuracy score, Random Forest has the highest accuracy score with 96.67% for the prediction. KNN model was the worst performing model out of all the models we tested with 88.33% accuracy. There are more room for improvements if we can adjust hyperparameters using cross-validation to our dataset. In addition, I believe the data sample may be a little bit small with an n = 299. If we have more data sample, our predictive model may be much more accurate, and we may even be able to understand and select more features to build our model.  
+
 Overall, I believe by using Random Forest Model, we can accurately predict heart failure disease survival based on the given health attributes.
-Acknowledgements
+
+### Acknowledgements
 I want to thank the data science community from Kaggle for the dataset. I would like to acknowledge the whole Bellevue University Data Science Graduate Program for providing me an opportunity to learn about Data Science.
-Appendix A
-Figure 9: Platelets Count on Survival Status
-Bellevue University Page | 17
-References
+### Appendix A
+
+| ![PNG](/images/hf/hf_9.png)   | 
+|:--:| 
+| *Figure 9: Platelets Count on Survival Status* |
+
+### References
 1. Ahmad T, Munir A, Bhatti SH, Aftab M, Raza MA. Survival analysis of heart failure patients: a case study. PLoS ONE. 2017; 12(7):0181001.
 2. Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020). https://doi.org/10.1186/s12911-020-1023-5
 3. Dalen, J. E., Alpert, J. S., Goldberg, R. J., & Weinstein, R. S. (2014). The Epidemic of the 20th
