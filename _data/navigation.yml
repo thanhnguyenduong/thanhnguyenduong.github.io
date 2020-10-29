@@ -5,8 +5,8 @@ main:
   #- title: "Projects"
  #   url: /machine-learning/
   - title: "Projects"
-    url: /year-archive/
-  - title: "Projects Grid"
     url: /year-archive-grid/
+ # - title: "Projects Grid"
+  #  url: /year-archive-grid/
   # - title: "Sitemap"
   #   url: /sitemap/
