@@ -46,7 +46,7 @@ Once predictive model for Parkinson’s Disease is built, we will also observe t
 
 The code and analysis were all done using Python with Jupyter Notebook. The first step to any data science analysis was to understand our dataset by preprocess the dataset and to see if there are any null or missing values. Since there were no missing values, we can begin analyzing and seeing correlations or relationships between different features through the use of histogram plots and other visualizations.  
 
-| ![PNG](/images/pd/pd_1)   | 
+| ![PNG](/images/pd/pd_1.png)   | 
 |:--:| 
 | *Figure 1: Box-and-Whisker Plot Distributions of all variables against “status” variable. 0 = Healthy and 1 = Parkinson’s Disease Patient.* |
 
@@ -54,7 +54,7 @@ The code and analysis were all done using Python with Jupyter Notebook. The firs
 The first analysis was done to understand the distributions of all variables against “status” variable as shown in Figure 1. Since “status” variable is a boolean variable type, 0 indicates healthy and 1 indicates those with PD. These charts were done to observe the distribution of all variables and find which variable has outliers that can affect our modeling steps. From the
 charts, many columns seem to have outliers with the exception of D2, Spread1, Spread2, and RDPE. Besides plotting box-and-whisker plots of all the variables against “status” variable, we also graphed these variables using histogram plots, shown in Figure 2, to see if their distribution is skewed in any way. A detailed definition of what each variable is in the Appendix A in Table 1.
 
-| ![PNG](/images/pd/pd_2)   | 
+| ![PNG](/images/pd/pd_2.png)   | 
 |:--:| 
 | *Figure 2: Histogram distributions of each variable.* |
 
@@ -65,7 +65,7 @@ Once we understand our dataset, it was time for us to select features to build o
 
 After understanding the overall relationships and trends between different features, we performed a features selection step using a heatmap correlation (Figure 3) to understand the correlations between features and their relationships.
 
-| ![PNG](/images/pd/pd_3)   | 
+| ![PNG](/images/pd/pd_3.png)   | 
 |:--:| 
 | *Figure 3: Heat map correlation of all variables in the dataset.* |
 
@@ -78,7 +78,7 @@ one way or another. Hence, the reason why doctors performed these voice tests. W
 For this phase, we performed multiple machine learning models to determine the model that best fit our dataset. For this project, a few different model techniques were employed for a total of 11 techniques. Classic machine learning models like Logistic Regression, Gaussian Naïve Bayes, K-nearest Neighbors, Decision Trees, Random Forests, and Support Vectors Machines were used in this project, in addition to newer techniques that we also tried like Ada boost Classifier, Ridge Classifier, Extra Trees Classifier, Gradient Boosting Classifier and XGBoost Classifier. For this predictive modeling phase, we created a training and testing set using 70:30 split. Since all variables are related with one another in some ways, we decided to keep all variables. However, since most variables had outliers, we had to perform minimum and maximum scaler. Min-max scaler is a normalization method and by doing so, all features will be transformed into the range of [0, 1], thus, reducing potential biases among variables when fitting our models. In addition to min-max scaler, we also performed K-fold cross validation, due to the limited data sample in our dataset (n = 31). In K-fold cross validation, when a specific value for k is chosen, it may be used in place of k in the reference to the model, such as k=10 becoming 10-fold cross-validation. In this project, we used k = 5 which equivalents to 5-fold cross-validation. As k gets larger, the difference in size between the training set and the resampling subsets gets smaller. As this difference decreases, the bias of the technique becomes smaller (Brownlee, 2018).
 After K-fold cross validation was performed, different machine learning techniques were employed, and accuracy score was obtained (Table 2) in Appendix A and graphed as bar plot to compare visually between all the different predictive model techniques (Figure 4).
 
-| ![PNG](/images/pd/pd_4)   | 
+| ![PNG](/images/pd/pd_4.png)   | 
 |:--:| 
 | *Figure 4: Accuracy scores ranking of different predictive models.* |
 
@@ -86,7 +86,7 @@ From Figure 4, Extra Trees Classifier gave us the highest percent accuracy score
 In addition, we want to find out the feature or features that have the most influence on Parkinson’s Disease diagnosis and our predictive model. Using Extra Tree feature importance
 function, we were able to create a graph that plot based on their normalized feature importance value. Table 3 in the Appendix A lists out the normalized feature importance value for each of the variable.
 
-| ![PNG](/images/pd/pd_5)   | 
+| ![PNG](/images/pd/pd_5.png)   | 
 |:--:| 
 | *Figure 5: Comparison of different feature importance.* |
 
@@ -105,15 +105,15 @@ I want to thank the data science community from Kaggle for the dataset. I would 
 
 ### Appendix A
 
-| ![PNG](/images/pd/pd_6)   | 
+| ![PNG](/images/pd/pd_6.png)   | 
 |:--:| 
 | *Table 1: Definition of all variables in the dataset* |
 
-| ![PNG](/images/pd/pd_7)   | 
+| ![PNG](/images/pd/pd_7.png)   | 
 |:--:| 
 | *Table 2: Percent Accuracy Scores for all predictive model techniques* |
 
-| ![PNG](/images/pd/pd_8)   | 
+| ![PNG](/images/pd/pd_8.png)   | 
 |:--:| 
 | *Table 3: Normalized feature importance to the models ranking table* |
 
