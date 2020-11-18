@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: "/images/bay area.jpg"
+  image: "/images/bay-area.jpg"
   caption: "Photo credit: BIAbayarea.org"
 ---
 
