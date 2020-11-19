@@ -268,13 +268,6 @@ compress_html:
 
 # Defaults
 defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: main
-    values:
-      sidebar:
-        nav: "main"
   # _posts
   - scope:
       path: ""
