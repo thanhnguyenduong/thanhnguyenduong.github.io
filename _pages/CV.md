@@ -12,7 +12,7 @@ header:
 
 **JUN 2019 – DEC 2019**  
 RESEARCH ASSOCIATE I, STRAIN ENGINEERING – WILLOW BIOSCIENCES  
-************************************
+*******************
 * Metabolic engineering of yeast to produce API chemicals. 
 * Molecular biology tools development for strain engineering.  
 * Reviewed and created SOPs to ensure consistency in company’s research and development  
