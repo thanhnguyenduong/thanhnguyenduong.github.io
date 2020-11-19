@@ -1,13 +1,13 @@
 # main links
 main:
+  - title: "CV"
+    url: /CV/
   - title: "About Me"
     url: /about/
   #- title: "Projects"
  #   url: /machine-learning/
   - title: "Projects"
     url: /year-archive-grid/
-  - title: "CV"
-    url: /CV/
  # - title: "Projects Grid"
   #  url: /year-archive-grid/
   # - title: "Sitemap"
