@@ -3,9 +3,6 @@ title: "Resume"
 permalink: /CV/
 date: 2020-11-19
 classes: wide
-header:
-  image: ""
-  caption: ""
 ---
 
 ### PROFESSIONAL EXPERIENCE
