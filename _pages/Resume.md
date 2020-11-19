@@ -49,8 +49,9 @@ BELLEVUE UNIVERSITY
 
 **2011 - 2016**  
 **BACHELOR OF SCIENCE (BS) IN MOLECULAR BIOLOGY, CHEMISTRY MINOR**  
-SAN JOSE STATE UNIVERSITY   
+SAN JOSE STATE UNIVERSITY
 
+---
 ### Wet lab Skills
 * High-throughput screening  
 * PCR  
@@ -63,6 +64,7 @@ SAN JOSE STATE UNIVERSITY
 * Bacterial/yeast transformations  
 * Yeast metabolic engineering   
 
+---
 ### Data Science Skills  
 * Python
 * R  
