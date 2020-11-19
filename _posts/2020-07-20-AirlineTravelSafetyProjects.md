@@ -95,3 +95,117 @@ I chose these main points and metrics because a passerby may only have a few sec
 * FiveThirtyEight Airline Safety Dataset. (2019, April 26). Kaggle. https://www.kaggle.com/fivethirtyeight/fivethirtyeight-airline-safety-dataset
 * NHTSA. (2016). Traffic Safety Facts. Https://Crashstats.Nhtsa.Dot.Gov/Api/Public/ViewPublication/812580.
 * Silver, N. (2017, April 21). Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past? FiveThirtyEight. https://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/
+
+******************************************
+### 3. Blog Post
+
+Blog Post was created using Wix.com, please refer to this link for my blog post: [Link](https://tnguyen064.wixsite.com/dsc640)
+<br>
+
+### Airline Travel - Is it safer than car?
+**Why does airline catastrophes catch our attention?**  
+ We experience automobile accidents and fatalities every day, but when it comes to an airline accident and
+fatalities it really catch our attention. What is the reason behind it? One main reason is due to the risk
+perception hyped by the media. When we heard of airline accident, it induce fear and tend to give us false
+impression that these events can occur no matter how infrequently they happen unlike automobile accidents.
+The reason is that we tend to experience automobile accidents almost every day. Another part of the reasons
+is the scale and magnitude of an airplane incident; one airplane contains hundreds of lives, thus, one
+accident can cause a fatality of hundreds of lives. People often think automobile are safer than airline travels,
+due to the fact, that they are in control of their automobile whereas in air travel, safety and control is
+completely depended on the flight crew and captain.  
+
+For years, many news and media outlets try to exaggerate the dangers of air travel and flying. As we all
+know, air travel is the most convenient, if not, the most efficient option to travel from one part of the country
+to another part, or globally. There are many reasons why people use air travel. From families taking a
+vacation to business work related travel. Thus, it is essential to know that air travel is safe when they are
+thousands of feet off the ground. Media often times compare air travels against automobile and make it
+seem like that air travels is not any safer than automobile. But is it true?  
+
+| ![PNG](/images/pd/a_8.png)   | 
+|:--:| 
+| *Source: Aviation Safety Network and National Highway Traffic Safety Administration (NHTSA)* |
+
+For media outlets, yes, they would like us to think that air travel is not safer than automobile. They show
+charts that are manipulated and biased to make it seem like air travel incidences are worse than they
+appeared to be. So what is really the truth? Are air travels not as safe as people think they are? Are airlines
+no longer have strict regulation on passenger safety? Would we be better off driving or take other mode of
+transportation for vacation than travel by air? In order to determine whether it is safe or not and make a
+conclusion, we decided to do a few research and see if it is actually safer than automobile.
+As always, accidents can happen anywhere and at anytime no matter which modes of transportation you
+take. This include air travels, no matter how safe they are, there will always be a few accidents here and
+there. But, let's compare it to auto accidents statistics from 1985 to 2014. During this time period, the
+number of automobile fatality accidents were 1,220,853 compared to the same period, with airline travel, it
+had roughly 3,055 fatality accidents. During 1985 to 2014 period, automobile had roughly 400 times more
+fatality incidents compared to air travel. This number of incidents averaged out to be 42000 for automobile to
+324 airline travel incidents annually.  
+
+| ![PNG](/images/pd/a_9.png)   | 
+|:--:| 
+| *Source: Aviation Safety Network* |
+
+Let's dive deeper in some more numbers from a five-year period, 2014 to 2018. During this period, the
+number of auto incidents was as much as 1,021 times over airline incidents (U.S. Department of
+Transportation, 2019). Glancing at the chart, some may say that car accidents usually involved fewer people
+than airline accidents. Is it possible that the small numbers of airline incidents can account for larger fatalities
+than auto fatalities? Let's look at those chart again, we can see there is a huge difference between the
+number of airline fatalities and incidents compared to auto incidents and fatalities. To put in a different
+perspective, auto fatalities accounted 80 times more than airline fatalities during the period, 2014 to 2018.
+From these two statistics and graphs between the year 1985 - 2018, we can see that air travel still had lower
+fatalities and lower incidents compared to automobile. It seems like air travel is safer than automobile.  
+
+**Does this mean airline travel is safe?**
+
+| ![PNG](/images/pd/a_10.png)   | 
+|:--:| 
+| *Source: Aviation Safety Network* |
+
+While we did see that airline fatalities and incidents were not as high as auto incidents and fatalities from
+1985 to 2018, for some, they may still be skeptical about whether airline travel is actually safe or not. Let's
+dive deeper into airline travels incidents and fatalities, when it comes to these numbers, they are accounted
+for all airlines. Thus, both international and domestic airlines are taken into account. Is it possible that one
+airline has higher fatality and incident rate than others?    
+
+Media outlets sometimes portrayed charts and graph showing how some airlines are less safe than others.
+This may not be entirely true, and these raw numbers can be misleading because some airline have more
+flights and longer flight path than others. In fact, an airline that has 10 flights per week with 5 accidents will
+have a higher accident rate than an airline that has 100 flights per week with 5 accidents in total. Hence, it is
+more precise to compare airlines fatalities by available seat kilometers flown to normalize both small and
+large airlines.  
+ 
+Once we break down the airlines fatalities by available seat kilometers flown, it is easier to see that domestic
+flights have much lower both fatalities and incidents compared to international flights. In fact, domestic
+airlines are not in the top 10 airlines with most fatalities per ASK, or available seat kilometer. Kenya Airways
+is the airline that has the most fatalities per available seat kilometer. Based on Flight Safety Foundation,
+Kenya Airways reported 2 fatal accidents and 283 fatalities throughout their flight record. When adjusted to
+per available seat kilometer, it is equal to 1,275 fatalities and 9 accidents per available seat kilometer (1996 -
+2020). Based on this graph, we can see that domestic airlines are much safer than international airlines,
+especially in countries where airline regulations are not as stringent.  
+
+| ![PNG](/images/pd/a_11.png)   | 
+|:--:| 
+| *Source: Aviation Safety Network* |
+
+For us, flying has become much safer after the 2001 terrorist attacks. After 2001, United States has imposed
+many regulations and more aviation security to ensure the safety of its passengers. From the chart, we can
+see the number of aviation hijackings and hijacking fatalities have significantly dropped from 2001 onward.
+We can see huge differences before and after 2001 terrorist attack incidents from the chart and how aviation
+industry have changed dramatically. More security and more regulation imposed may mean longer wait times
+to board planes, but it also means the safety of our country's travelers have increased.  
+
+**Conclusion**
+Aviation industry is always competitive and constantly evolving both to meet travelers' demand and ensure
+the safety of their passengers. There have been numerous changes from when airplanes were first invented
+by the Wrights Brothers in 1903, and when Amelia Earhart first flew across the Atlantic Ocean in 1928 to
+today's autopilot equipped airplanes, evolving cockpit safety technology, constant flight status monitoring,
+security check and passenger cabin safety measures. All of these features existed to provide a more
+enhanced and a safer travel for passengers. With all of these aspects in place, it is safe to say that air travel
+is safer than automobiles in today's world. Why wait, book those plane tickets now, while price is still cheap,
+to your favorite destination this summer. Worry-free with our stringent airline safety measures and technology
+in place.  
+
+**References**
+*Flight Safety Foundation. (1996-2020). Aviation Safety Network. Retrieved from Aviation Safety Network: https://aviation-safety.net/
+*Peterson, B. (2016, October 5). How Airport Security Has Changed Since 9/11. Retrieved from https://www.cntraveler.com/story/how-airport7/security-has-changed-since-september-11
+*Seaney, R. (2019, December 19). 9 Ways Airport Security Changed Since 9/11. Retrieved from Fare Compare:
+https://www.farecompare.com/traveladvice/9-ways-security-has-changed-since-911/
+*U.S. Department of Transportation. (2019, November 26). National Highway Traffic Safety Administration. Retrieved from National Highway Traffic Safety Administration: https://cdan.dot.gov/query
