@@ -99,7 +99,7 @@ I chose these main points and metrics because a passerby may only have a few sec
 ******************************************
 ### 3. Blog Post: Airline Travel - Is it safer than car?   
 
-Blog Post was created using Wix.com, please refer to this link for my blog post: [Link](https://tnguyen064.wixsite.com/dsc640)
+Blog Post was created using Wix.com, please refer to this link for my blog post: [Link](https://tnguyen064.wixsite.com/dsc640)  
 <br>
 **Why does airline catastrophes catch our attention?**  
  We experience automobile accidents and fatalities every day, but when it comes to an airline accident and
