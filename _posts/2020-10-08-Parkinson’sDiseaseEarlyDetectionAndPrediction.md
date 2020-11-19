@@ -5,6 +5,7 @@ tags: [Python, Prediction, Analysis, Machine learning, data science]
 header:
   image: "/images/pd1.jpg"
   caption: "Photo credit: Prime Medic Inc. and YouAndParkinsons.com"
+  teaser: "/images/pd1.jpg"
 excerpt: "This project analyzes and creates a predictive model on a Parkinson's Disease dataset"
 classes: wide
 
