@@ -3,9 +3,9 @@ title: "Pneumonia Detection and Classification Using Deep Learning CNN model"
 date: 2020-11-18
 tags: [Python, Prediction, Analysis, Deep Learning, data science]
 header:
-  image: "/images/pneumonia.jpg"
+  image: "/images/pneumonia1.jpg"
   caption: "Photo credit: freepik.com"
-  teaser: "/images/pneumonia.jpg"
+  teaser: "/images/pneumonia1.jpg"
 excerpt: "This project attempts to classify X-ray images using Convolutional Neural Network into two categories: pneumonnia and normal lungs"
 classes: wide
 
