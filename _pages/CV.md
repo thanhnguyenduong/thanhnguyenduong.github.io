@@ -2,6 +2,7 @@
 title: "CV"
 permalink: /CV/
 date: 2020-11-19
+classes: wide
 header:
   image: ""
   caption: ""
@@ -11,14 +12,15 @@ header:
 
 **JUN 2019 – DEC 2019**  
 RESEARCH ASSOCIATE I, STRAIN ENGINEERING – WILLOW BIOSCIENCES  
-•	Metabolic engineering of yeast to produce cannabinoids. Molecular biology tool development for strain engineering.  
+•	Metabolic engineering of yeast to produce API chemicals. 
+* Molecular biology tools development for strain engineering.  
 •	Reviewed and created SOPs to ensure consistency in company’s research and development  
 •	Performed high throughput screening using automated instruments like Bio-Mek, Tecan Fluent, QPix400, Viafill, Agilent Bravo, Echo 550  
 •	Performed a wide range of QA and QC to ensure strains integrity  
 
 **JAN 2018 – MAY 2019**  
 RESEARCH ASSOCIATE I - ANTHEIA BIO  
-•	Metabolic engineering of yeast to produce alkaloids. Molecular biology tool development for strain engineering.  
+•	Metabolic engineering of yeast to produce alkaloids and other active pharmaceutical ingredients chemicals
 •	Designed primers, build constructs for donor DNA and use CRISPR engineering to perform yeast genome editing and cloning  
 •	Optimized assay and media conditions for development, bacterial/yeast transformations, performed high-throughput screening with Bio-Mek, and QPix 400  
 
