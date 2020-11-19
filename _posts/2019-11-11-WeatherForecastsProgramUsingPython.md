@@ -7,7 +7,7 @@ header:
 excerpt: "This weather forecast programs will obtain weather information from OpenWeatherMap website"
 ---
 
-![JPG](/images/projects 2.jpg)
+![JPG](/images/projects.jpg)
  
   
 Try the program yourself at [Weather Forecast Program](https://github.com/thanhnguyenduong/DSC510_Weather_Python_Program)
