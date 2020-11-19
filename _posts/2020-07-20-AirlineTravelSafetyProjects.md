@@ -202,8 +202,8 @@ to your favorite destination this summer. Worry-free with our stringent airline 
 in place.  
 
 **References**
-*Flight Safety Foundation. (1996-2020). Aviation Safety Network. Retrieved from Aviation Safety Network: https://aviation-safety.net/
-*Peterson, B. (2016, October 5). How Airport Security Has Changed Since 9/11. Retrieved from https://www.cntraveler.com/story/how-airport7/security-has-changed-since-september-11
+*Flight Safety Foundation. (1996-2020). Aviation Safety Network. Retrieved from Aviation Safety Network: https://aviation-safety.net/  
+*Peterson, B. (2016, October 5). How Airport Security Has Changed Since 9/11. Retrieved from https://www.cntraveler.com/story/how-airport7/security-has-changed-since-september-11  
 *Seaney, R. (2019, December 19). 9 Ways Airport Security Changed Since 9/11. Retrieved from Fare Compare:
-https://www.farecompare.com/traveladvice/9-ways-security-has-changed-since-911/
+https://www.farecompare.com/traveladvice/9-ways-security-has-changed-since-911/  
 *U.S. Department of Transportation. (2019, November 26). National Highway Traffic Safety Administration. Retrieved from National Highway Traffic Safety Administration: https://cdan.dot.gov/query
