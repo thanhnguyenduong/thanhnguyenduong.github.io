@@ -119,7 +119,7 @@ vacation to business work related travel. Thus, it is essential to know that air
 thousands of feet off the ground. Media often times compare air travels against automobile and make it
 seem like that air travels is not any safer than automobile. But is it true?  
 
-| ![PNG](/images/pd/a_8.png)   | 
+| ![PNG](/images/airline/a_8.png)   | 
 |:--:| 
 | *Source: Aviation Safety Network and National Highway Traffic Safety Administration (NHTSA)* |
 
@@ -137,7 +137,7 @@ had roughly 3,055 fatality accidents. During 1985 to 2014 period, automobile had
 fatality incidents compared to air travel. This number of incidents averaged out to be 42000 for automobile to
 324 airline travel incidents annually.  
 
-| ![PNG](/images/pd/a_9.png)   | 
+| ![PNG](/images/airline/a_9.png)   | 
 |:--:| 
 | *Source: Aviation Safety Network* |
 
@@ -153,7 +153,7 @@ fatalities and lower incidents compared to automobile. It seems like air travel 
 
 **Does this mean airline travel is safe?**
 
-| ![PNG](/images/pd/a_10.png)   | 
+| ![PNG](/images/airline/a_10.png)   | 
 |:--:| 
 | *Source: Aviation Safety Network* |
 
@@ -179,7 +179,7 @@ per available seat kilometer, it is equal to 1,275 fatalities and 9 accidents pe
 2020). Based on this graph, we can see that domestic airlines are much safer than international airlines,
 especially in countries where airline regulations are not as stringent.  
 
-| ![PNG](/images/pd/a_11.png)   | 
+| ![PNG](/images/airline/a_11.png)   | 
 |:--:| 
 | *Source: Aviation Safety Network* |
 
