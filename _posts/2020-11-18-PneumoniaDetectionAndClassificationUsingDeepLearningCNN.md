@@ -113,22 +113,35 @@ In addition, we wanted to compare between precision and recall; we want to get t
 | *Figure 6: Confusion Matrix of our CNN model.* | 
  
 ### Discussion and Conclusion  
-From Figure 6, of 1172 X-ray scan images, 754 will be detected as pneumonia, 320 will be detected as normal lungs. On the other hand, 9 images will be normal lungs but will get detected as pneumonia while 89 are pneumonia lungs, but will be detected as normal.
-We have developed a CNN model that able to detect and classify lungs classes (either pneumonia or healthy) from patients’ chest X-ray scan images at a high accuracy with a score of 91.64%. The algorithm begins by reshaping the images into smaller sizes than the original size obtained from the dataset. To reassure the integrity of our model, we repeated the training process of the model several times as well as testing it in a small batch of 6 images shown in Figure 7 and a slightly bigger batch of 40 images shown in Figure 8, respectively.
-Figure 7: Model Prediction and Classification for 6 images
-Bellevue University Page | 14
-Figure 8: Model Prediction and Classification for 40 images
-Looking at both Figure 7 and Figure 8, green labeled images are incorrect classifications while blue labeled images are correct classifications. Out of 6 images, 2 images were incorrectly classified which is around 33% incorrect and 67% correct classifications. On the other hand, testing in a slightly larger scale with 40 images, 6 images were incorrectly classified and 36 were
-Bellevue University Page | 15
-correctly classified which equivalent to 90% accuracy score. With our model, the more images that are being fed, the higher the accuracy and classification score will be.
-This project and paper has successfully created a Convolutional Neural Network (CNN) model that can predict and classify X-ray images to either categories: pneumonia or healthy with a 91.64% accuracy. This is a huge breakthrough in classifying and diagnosing pneumonia and improving the health of children and other age groups without having doctors to manually looking through every single X-ray image. On the other hand, the study was limited by the depth of data and with increased access to data from other parts of the world, the training and accuracy of our model will surely increase drastically. There are more improvements to be made in our model. For now, the CNN model that we have created can correctly classify lung X-ray images with a 91.64% accuracy.
-Acknowledgements
+From Figure 6, of 1172 X-ray scan images, 754 will be detected as pneumonia, 320 will be detected as normal lungs. On the other hand, 9 images will be normal lungs but will get detected as pneumonia while 89 are pneumonia lungs, but will be detected as normal. We have developed a CNN model that able to detect and classify lungs classes (either pneumonia or healthy) from patients’ chest X-ray scan images at a high accuracy with a score of 91.64%. The algorithm begins by reshaping the images into smaller sizes than the original size obtained from the dataset. To reassure the integrity of our model, we repeated the training process of the model several times as well as testing it in a small batch of 6 images shown in Figure 7 and a slightly bigger batch of 40 images shown in Figure 8, respectively.  
+
+
+| ![PNG](/images/pneumonia/p_10.png)   | 
+|:--:| 
+| *Figure 7: Model Prediction and Classification for 6 images.* |     
+
+| ![PNG](/images/pneumonia/p_11.png)   | 
+|:--:| 
+| *Figure 8: Model Prediction and Classification for 40 images.* |    
+
+
+  Looking at both Figure 7 and Figure 8, green labeled images are incorrect classifications while blue labeled images are correct classifications. Out of 6 images, 2 images were incorrectly classified which is around 33% incorrect and 67% correct classifications. On the other hand, testing in a slightly larger scale with 40 images, 6 images were incorrectly classified and 36 were correctly classified which equivalent to 85% accuracy score. With our model, the more images that are being fed, the higher the accuracy and classification score will be.  
+  
+This project and paper has successfully created a Convolutional Neural Network (CNN) model that can predict and classify X-ray images to either categories: pneumonia or healthy with a 91.64% accuracy. This is a huge breakthrough in classifying and diagnosing pneumonia and improving the health of children and other age groups without having doctors to manually looking through every single X-ray image. On the other hand, the study was limited by the depth of data and with increased access to data from other parts of the world, the training and accuracy of our model will surely increase drastically. There are more improvements to be made in our model. For now, the CNN model that we have created can correctly classify lung X-ray images with a 91.64% accuracy.  
+
+### Acknowledgements  
 I want to thank the data science community from Kaggle for the dataset. I would also like to acknowledge Daniel Kermany and his team for creating this dataset. In addition, Python and data science community has been extremely helpful in explaining the concept of Convolutional Neural Network.
-Bellevue University Page | 16
-Appendix A
-Table 1: Data augmentation settings for our model
-References
-1. Adegbola, R. A. (2012). Childhood Pneumonia as a Global Health Priority and the Strategic Interest of The Bill & Melinda Gates Foundation. Clinical Infectious Diseases, 54(suppl 2), S89–S92. https://doi.org/10.1093/cid/cir1051
+
+### Appendix A
+
+
+| ![PNG](/images/pneumonia/p_4.png)   | 
+|:--:| 
+| *Table 1: Data augmentation settings for our model.* |   
+
+
+### References
+1. Adegbola, R. A. (2012). Childhood Pneumonia as a Global Health Priority and the Strategic Interest of The Bill & Melinda Gates Foundation. Clinical Infectious Diseases,      54(suppl 2), S89–S92. https://doi.org/10.1093/cid/cir1051
 2. Hashmi, M. F., Katiyar, S., Keskar, A. G., Bokde, N. D., & Geem, Z. W. (2020). Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning. Diagnostics, 10(6), 417. https://doi.org/10.3390/diagnostics10060417
 3. I. Rudan, L. Tomaskovic, C. Boschi-Pinto, and H. Campbell, “Global estimate of the incidence of clinical pneumonia among children under five years of age,” Bulletin of the World Health Organization, vol. 82, pp. 85–903, 2004.
 Bellevue University Page | 17
