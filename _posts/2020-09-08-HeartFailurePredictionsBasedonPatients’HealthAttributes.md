@@ -5,6 +5,7 @@ tags: [Python, data science, Machine Learning, Analysis, Heart Failure]
 header:
   image: "/images/HF.jpeg"
   caption: "Photo credit: UC Health"
+  teaser: "/images/HF.jpeg"
 classes: wide
 excerpt: "This project analyzes a dataset on heart failure and creates a prediction based on patients' health records"
 ---
