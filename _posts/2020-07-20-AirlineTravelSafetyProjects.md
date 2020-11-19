@@ -101,6 +101,7 @@ I chose these main points and metrics because a passerby may only have a few sec
 
 Blog Post was created using Wix.com, please refer to this link for my blog post: [Link](https://tnguyen064.wixsite.com/dsc640)  
 <br>
+
 **Why does airline catastrophes catch our attention?**  
  We experience automobile accidents and fatalities every day, but when it comes to an airline accident and
 fatalities it really catch our attention. What is the reason behind it? One main reason is due to the risk
