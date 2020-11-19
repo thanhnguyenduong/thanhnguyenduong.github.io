@@ -5,6 +5,7 @@ tags: [R, Programming, data science, Machine Learning, Analysis]
 header:
   image: "/images/chicago.jpg"
   caption: "Photo credit: Shutterstock"
+  teaser: "/images/chicago.jpg"
 classes: wide
 excerpt: "This project analyzes Chicago crime statistics with R"
 ---
