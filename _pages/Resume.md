@@ -8,7 +8,7 @@ classes: wide
 ### PROFESSIONAL EXPERIENCE
 
 **JUN 2019 – Present**  
-RESEARCH ASSOCIATE I, STRAIN ENGINEERING – WILLOW BIOSCIENCES  
+RESEARCH ASSOCIATE, STRAIN ENGINEERING – WILLOW BIOSCIENCES  
 
 ---
 * Metabolic engineering of yeast to produce API chemicals. 
