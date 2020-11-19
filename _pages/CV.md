@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-permalink: /CV/
+permalink: /Resume/
 date: 2020-11-19
 classes: wide
 ---
