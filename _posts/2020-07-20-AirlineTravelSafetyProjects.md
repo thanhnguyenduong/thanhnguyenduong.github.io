@@ -75,7 +75,7 @@ Terrorist attack. These findings can support and amplify the confidence in air t
 
 ### 2. Infographics
 
-![PDF](/PDFs/DSC 640 - Infographic_Thanh Nguyen-Duong.pdf.pdf)
+![PDF](/PDFs/DSC 640 - Infographic_Thanh Nguyen-Duong.pdf)
 
   The infographic is intended for external audience. The idea is to project positive message about airlines safety and support that with data, while making it appealing and easily understandable for the public. The title of the infographic articulates what the graphics is all about – Air Travel Safety. I started with a blue and orange background and added an airplane picture to it as blue and orange seems to have a calming effect and also help audience to easily look at the infographic with such warm colors. I wanted the title to immediately state the point of the graphic, that airline travel is safe. Thus, the first point I made is that flying is safer than driving which is when what I did for the first metric. Comparing between automobile and airlines. This is important because we want the audience to compare between different modes of transportation when they want to go on vacations. When compared fatality rate side by side from 1995-2008 data, aviation is, on average, 8.75 times less than auto fatality rate per 100 million miles. The data source for this statistic is cited down in the reference section.  
 
