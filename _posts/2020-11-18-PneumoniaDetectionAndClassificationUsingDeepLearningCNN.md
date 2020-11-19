@@ -1,7 +1,7 @@
 ---
 title: "Pneumonia Detection and Classification Using Deep Learning CNN model"
 date: 2020-11-18
-tags: [Python, Prediction, Analysis, Deep Learning, data science]
+tags: [Python, Classification, CNN, Deep Learning, data science]
 header:
   image: "/images/pneumonia.jpg"
   caption: "Photo credit: freepik.com"
