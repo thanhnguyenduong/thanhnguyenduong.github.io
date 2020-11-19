@@ -19,7 +19,7 @@ For my full repository on this project, please refer to: [Link](https://github.c
 
 ************************************
 
-### Dashboard Summary
+### 1. Dashboard Summary
 
 For years, many news and media outlets try to exaggerate the dangers of air travel and flying. As we all know, air travel is the most convenient, if not, the most efficient option to travel from one part of the country to another part, or globally. There are many reasons why people use air travel. From families taking a vacation to business work related travel. Thus, it is essential to know that air travel is safe when they are thousands of feet off the ground. Media often times compare air travels against automobile and make it seem like that air travels is not any safer than automobile. In fact, we experience automobile accidents and fatalities every day, but when it comes to an airline accident and fatalities it really catch our attention. One main reason is due to the risk perception hyped by the media. Another part of the reasons is the scale and magnitude of an airplane incident; one airplane encompasses hundreds of lives; thus, one accident can cause a fatality of hundreds of lives. People often think automobile are safer than airline travels, due to the fact, that they are in control of their automobile whereas in air travel, safety and control is completely depended on the flight crew and captain.  
 
@@ -71,3 +71,27 @@ Terrorist attack. These findings can support and amplify the confidence in air t
 
 ![PNG](/images/airline/a_7.png)   
 
+***************************************
+
+### 2. Infographics
+
+![PNG](/images/infographics.png)
+
+  The infographic is intended for external audience. The idea is to project positive message about airlines safety and support that with data, while making it appealing and easily understandable for the public. The title of the infographic articulates what the graphics is all about – Air Travel Safety. I started with a blue and orange background and added an airplane picture to it as blue and orange seems to have a calming effect and also help audience to easily look at the infographic with such warm colors. I wanted the title to immediately state the point of the graphic, that airline travel is safe. Thus, the first point I made is that flying is safer than driving which is when what I did for the first metric. Comparing between automobile and airlines. This is important because we want the audience to compare between different modes of transportation when they want to go on vacations. When compared fatality rate side by side from 1995-2008 data, aviation is, on average, 8.75 times less than auto fatality rate per 100 million miles. The data source for this statistic is cited down in the reference section.  
+
+  The next section for accident trends in air travel shows an impressive decrease of 53.7% over the last 10 years (2000-2008). A trend line is the easiest way to make this statistic easy to digest. I have used external data for this, and the data source is cited in the reference section.  
+  
+  The next metric shows the growth between 1995 and 2018 for the major domestic airline carriers. I want the audience to see that people are confident when it comes to flying and air travel. I wanted to point out to audience that there was an average of 386% increase in revenue for those airlines. The ones had that most growth, in terms of revenues, were Hawaiian and Southwest with 614% and 697% increase, respectively. United, Delta and American had 183%, 223% and 211% increase in revenue, respectively. This just show how much growth and passengers had rely on flying when compared a particular year in the past with a more recent year. The source data for this was included in the reference section.  
+  
+  The next metric is a pie chart showing an improvement in the number of fatal accidents when compared data from 1985-1999 to 2000-2014. I want the audience to know that there is a 9% reduction in the total number of fatal accidents. In addition, we experienced less incidents in the time period 2000-2014 when compared to the period 1985-1999. The data source is cited down in the reference section.  
+  
+  The next metric is a scatterplot chart showing the top 10 airlines that had the most fatalities per available seat kilometer. I want to emphasize to the audience that there is no US domestic airline carrier in the list of the top 10 showing most fatalities. Most of these airlines are in the developing countries with the exception of Air India and China Airline, where regulations and safety are not their top priority. This just support how much safer when we compared US airline carriers to their international competitors. The data source is included in the reference section.  
+  
+  The last metric and section stresses how safety is our number 1 priority and it is even more important after 2001 terrorist attack incident. There is a significant drop in the numbers of hijackings and hijacking fatalities after the 2001 period due to more regulations and safety being enforced to ensure travelers’ safety.
+I chose these main points and metrics because a passerby may only have a few seconds to glance at the graphic. I wanted them to catch the main points quickly. The charts are made for audience to easily interpret the data and support the main points I had written on the orange horizontal line. They can see that the graphs of the statistics support the claims being made. I wanted each point to stand out, so I used orange background to make it stand out from the blue background. And I kept the heading in white so it would stand out against the background.  
+
+**References**  
+* Accident Statistics. (n.d.). Accident Statistics. https://www.icao.int/safety/iStars/Pages/Accident-Statistics.aspx
+* FiveThirtyEight Airline Safety Dataset. (2019, April 26). Kaggle. https://www.kaggle.com/fivethirtyeight/fivethirtyeight-airline-safety-dataset
+* NHTSA. (2016). Traffic Safety Facts. Https://Crashstats.Nhtsa.Dot.Gov/Api/Public/ViewPublication/812580.
+* Silver, N. (2017, April 21). Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past? FiveThirtyEight. https://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/
