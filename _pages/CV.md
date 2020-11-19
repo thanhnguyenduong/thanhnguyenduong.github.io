@@ -9,7 +9,8 @@ classes: wide
 
 **JUN 2019 – DEC 2019**  
 RESEARCH ASSOCIATE I, STRAIN ENGINEERING – WILLOW BIOSCIENCES  
-************
+
+---
 * Metabolic engineering of yeast to produce API chemicals. 
 * Molecular biology tools development for strain engineering.  
 * Reviewed and created SOPs to ensure consistency in company’s research and development  
@@ -18,14 +19,16 @@ RESEARCH ASSOCIATE I, STRAIN ENGINEERING – WILLOW BIOSCIENCES
 
 **JAN 2018 – MAY 2019**  
 RESEARCH ASSOCIATE I - ANTHEIA BIO  
-************************************
+
+---
 *	Metabolic engineering of yeast to produce alkaloids and other active pharmaceutical ingredients chemicals
 *	Designed primers, build constructs for donor DNA and use CRISPR engineering to perform yeast genome editing and cloning  
 *	Optimized assay and media conditions for development, bacterial/yeast transformations, performed high-throughput screening with Bio-Mek, and QPix 400  
 
 **AUG 2016 – JUN 2017**   
-RESEARCH ASSOCIATE INTERN - PROSPECT BIO  
-************************************
+RESEARCH ASSOCIATE INTERN - PROSPECT BIO 
+
+---
 *	Prepared samples, screened library and performed cloning  
 *	Performed bacterial transformations via electroporation using Bio-Rad Gene Pulser to transform fosmids DNA by applying a high voltage into suspension of competent cells in a cuvette to induce pores expansion.   
 *	Executed experiments to test the specificity of bio-sensors at different chemical concentrations  
@@ -33,7 +36,8 @@ RESEARCH ASSOCIATE INTERN - PROSPECT BIO
 
 **SEP 2012 – MAY 2014**  
 RESEARCH ASSISTANT - SAN JOSE STATE UNIVERSITY   
-************************************
+
+---
 *	Analyzed and performed Polymerase Chain Reactions for site-directed mutagenesis for blue/white screening assay of LacZ operons.  
 *	Aided professor in performing DNA purification and precipitation, gel-electrophoresis and analysis of DNA bands.  
 *	Troubleshoot Polymerase Chain Reactions.   
