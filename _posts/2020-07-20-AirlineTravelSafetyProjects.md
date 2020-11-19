@@ -3,9 +3,9 @@ title: "Airline Travel Safety Projects"
 date: 2020-07-22
 tags: [Python, data science, data visualization, Analysis, flying]
 header:
-  image: "/images/airplane.png"
+  image: "/images/airplane.jpg"
   caption: "Photo credit: Sarah Waffle Gavin (Expedia.com)"
-  teaser: "/images/airplane.png"
+  teaser: "/images/airplane.jpg"
 classes: wide
 excerpt: "This project include many sub-projects regarding airline travel safety" 
 ---
