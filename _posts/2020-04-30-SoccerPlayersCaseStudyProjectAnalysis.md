@@ -5,6 +5,7 @@ tags: [Python, Case Study, Analysis, Machine learning, data science]
 header:
   image: "/images/soccerimage.jpg"
   caption: "Photo credit: Alexandre Loureiro/Getty Images"
+  teaser: "/images/soccerimage.jpg"
 classes: wide
 excerpt: "This project is a Case Study on Soccer Players"
 ---
