@@ -3,13 +3,16 @@ title: "Titanic Case Study Project Analysis"
 date: 2020-04-30
 tags: [Python, Case Study, Analysis, Machine learning, data science]
 header:
-  image: "/images/projects 2.jpg"
-  caption: "Photo credit: TheDataScientist.com"
   teaser: "/images/projects 2.jpg"
 classes: wide
 excerpt: "This project is about Titanic Case Study"
 ---
 
+| ![PNG](/images/case-study.jpg)| 
+|:--:| 
+| Photo credit: sokada.co.uk |  
+
+****************************************
 **This project was divided into 3 parts:**   
  **Part 1**: Graphics Analysis  
  **Part 2**: Feature Reduction & Filling in Missing Values  
