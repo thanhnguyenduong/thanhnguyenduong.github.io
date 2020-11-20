@@ -9,7 +9,7 @@ excerpt: "This project analyzes Chicago crime statistics with R"
 ---
 | ![PNG](/images/chicago.jpg)| 
 |:--:| 
-| **Photo credit: Shutterstock** |  
+| Photo credit: Shutterstock |  
 
 Read about my analysis at [Chicago Crime Analysis](https://nbviewer.jupyter.org/github/thanhnguyenduong/thanhnguyenduong.github.io/blob/master/PDFs/Chicago%20Crime%20Analysis_Thanh%20Nguyen-Duong.pdf)  
 
