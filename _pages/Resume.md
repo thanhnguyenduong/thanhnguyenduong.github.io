@@ -41,6 +41,7 @@ RESEARCH ASSISTANT - SAN JOSE STATE UNIVERSITY
 *	Analyzed and performed Polymerase Chain Reactions for site-directed mutagenesis for blue/white screening assay of LacZ operons.  
 *	Aided professor in performing DNA purification and precipitation, gel-electrophoresis and analysis of DNA bands.  
 *	Troubleshoot Polymerase Chain Reactions.   
+
 ---
 ### EDUCATION
 **2019-2020**  
