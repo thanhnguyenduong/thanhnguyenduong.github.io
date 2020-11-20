@@ -6,7 +6,7 @@ header:
   teaser: "/images/weather.jpg"
 excerpt: "This weather forecast programs will obtain weather information from OpenWeatherMap website"
 ---
-|![PNG](/images/chicago.jpg)| 
+|![PNG](/images/projects.jpg)| 
 |:--:| 
 | Photo credit: TheDataScientist.com |  
  
