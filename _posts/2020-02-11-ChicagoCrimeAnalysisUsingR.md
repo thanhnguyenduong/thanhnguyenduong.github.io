@@ -11,7 +11,10 @@ excerpt: "This project analyzes Chicago crime statistics with R"
 |:--:| 
 | Photo credit: Shutterstock |  
 
+<br>
+
 Read about my analysis at [Chicago Crime Analysis](https://nbviewer.jupyter.org/github/thanhnguyenduong/thanhnguyenduong.github.io/blob/master/PDFs/Chicago%20Crime%20Analysis_Thanh%20Nguyen-Duong.pdf)  
+**********************************
 
 ### Introduction
 Chicago is a city in the State of Illinois, filled with many landmarks and it is the third most populous city in the United States. However, due
