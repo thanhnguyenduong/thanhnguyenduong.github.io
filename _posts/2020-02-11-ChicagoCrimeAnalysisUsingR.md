@@ -3,13 +3,16 @@ title: "Chicago Crime Analysis Using R"
 date: 2020-02-11
 tags: [R, Programming, data science, Machine Learning, Analysis]
 header:
-  image: "/images/chicago.jpg"
-  caption: "Photo credit: Shutterstock"
   teaser: "/images/chicago.jpg"
 classes: wide
 excerpt: "This project analyzes Chicago crime statistics with R"
 ---
-Read about my analysis at [Chicago Crime Analysis](https://nbviewer.jupyter.org/github/thanhnguyenduong/thanhnguyenduong.github.io/blob/master/PDFs/Chicago%20Crime%20Analysis_Thanh%20Nguyen-Duong.pdf)
+| ![PNG](/images/chicago.jpg)| 
+|:--:| 
+| **Photo credit: Shutterstock** |  
+
+Read about my analysis at [Chicago Crime Analysis](https://nbviewer.jupyter.org/github/thanhnguyenduong/thanhnguyenduong.github.io/blob/master/PDFs/Chicago%20Crime%20Analysis_Thanh%20Nguyen-Duong.pdf)  
+
 ### Introduction
 Chicago is a city in the State of Illinois, filled with many landmarks and it is the third most populous city in the United States. However, due
 to the high number of populations in the city, crime and traffic collision rates also increased. These unfortunate events can negatively affect
